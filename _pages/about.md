@@ -13,8 +13,10 @@ Yang Liu received B.S. in Electrical Engineering from North Carolina Agricultura
 
 News
 ======
-1. Yang Liu received National Science Foundation Student Travel award.
-2. Yang Liu was nominated as the 2022 College of Engineering Outstanding Rising Graduate Scholar.
+1. Yang Liu was selected as a member of the program committee for IEEE IRI 2023 (24th IEEE International Conference on Information Reuse and Integration).
+2. Yang Liu received National Science Foundation Student Travel award.
+3. Yang Liu was nominated as the 2022 College of Engineering Outstanding Rising Graduate Scholar.
+4. ... 
 
 
 For more info
