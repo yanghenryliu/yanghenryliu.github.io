@@ -43,8 +43,6 @@ Skills
   * PyTorch and Tensorflow
 * Development Environments
   * Linux/Unix
-#* Miscellaneous
- #* Git, LaTex and Inkscape
 
 Publications
 ======
