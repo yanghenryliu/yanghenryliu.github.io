@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "PActivity detection and analysis using smartphone sensors"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2018-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+date: 2018-07-06
+venue: '2018 IEEE International Conference on Information Reuse and Integration (IRI)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Vaughn, A., Biocco, P., Liu, Y., & Anwar, M. (2018, July). Activity detection and analysis using smartphone sensors. In 2018 IEEE International Conference on Information Reuse and Integration (IRI) (pp. 102-107). IEEE.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Vaughn, A., Biocco, P., Liu, Y., & Anwar, M. (2018, July). Activity detection and analysis using smartphone sensors. In 2018 IEEE International Conference on Information Reuse and Integration (IRI) (pp. 102-107). IEEE.
