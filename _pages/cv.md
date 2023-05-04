@@ -61,7 +61,7 @@ Teaching
   
 Service and leadership
 ======
-* PC for IEEE 24th International Conference on Information Reuse and Integration for Data Science 
-* Reviewer for Journal of Medical Internet Research (JMIR) Publications
+* Program Committee for IEEE 24th International Conference on Information Reuse and Integration for Data Science 
 * Reviewer for IEEE Internet Computing 
+* Reviewer for Journal of Medical Internet Research (JMIR) Publications
 * Reviewer for 13th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2022)
