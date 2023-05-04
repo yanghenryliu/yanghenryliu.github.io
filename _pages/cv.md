@@ -37,9 +37,14 @@ Work experience
   
 Skills
 ======
-* Python 
-* Java
-* SQL
+* Computer Languages 
+  * Python, SQL, and MATLAB
+* Deep Learning Tools
+  * PyTorch and Tensorflow
+* Development Environments
+  * Linux/Unix
+#* Miscellaneous
+ #* Git, LaTex and Inkscape
 
 Publications
 ======
