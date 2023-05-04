@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. Student"
   location         : "Greensboro, NC"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Ntt81hsAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Yang-Liu-1064?ev=hdr_xprf"
