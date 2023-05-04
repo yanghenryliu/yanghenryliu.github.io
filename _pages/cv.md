@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Henan Polytechnic University, Enectrical and Computer Engineering, 2018
+* B.S. in North Carolina A&T State University, Enectrical Engineering, 2018
+* M.S. in North Carolina A&T State University, Computer Science, 2020
+* Currently Ph.D Student in North Carolina A&T State University, Computer Science, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*  Quantum Information Science and Engineering (QISE) Scholar  (Jun. 2021 - Present)
+  * Selected as a graduate student scholar by IBM to work in Quantum Computing Researcg Center <QC|RC> at NC A&T 
+  * Study the state-of-the-art quantum machine learning and quantum natural language processing technologies
+  * Working on a cross-cutting project of quantum machine learning
+
+* National Science Foundation (NSF) Research Experiences for Undergraduates (REU) in Data Science Research Mentor (Summer 2020 & 2021 & 2022)
+  * Involved with the planning and executed the REU program
+  * Trained students on a variety of topics within the field of NLP and machine learning 
+  * Guide students to produce an oral presentation and poster at the conclusion of the summer program
+  
+* Graduate Research Assistant in Human-Centered AI (HCAI) Lab (Aug. 2020 - Present)
+  * Research area: Natural Language Processing (NLP), Machine learning, and Quantum Computing
+
+* Research Assistant in Secure and Usable Social Media & Networks (SUSMaN) Lab (May. 2017 - May. 2020)
+  * Research area: Machine Learning, Data Mining, Internet of Things (IoT)
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python 
+* Java
+* SQL
 
 Publications
 ======
@@ -56,4 +62,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* PC for IEEE 24th International Conference on Information Reuse and Integration for Data Science 
+* Reviewer for Journal of Medical Internet Research (JMIR) Publications
+* Reviewer for IEEE Internet Computing 
+* Reviewer for 13th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2022)
