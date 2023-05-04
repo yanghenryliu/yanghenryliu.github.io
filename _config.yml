@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yang Liu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. Student"
+  location         : "Greensboro, NC"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Ntt81hsAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Yang-Liu-1064?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4307-9738"
   pinterest        :
   soundcloud       :
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
