@@ -2,7 +2,7 @@
 title: "COMP161 Python for Data Science"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-spring-teaching-1
+permalink: /teaching/2023-spring-teaching
 venue: "North Carolina A&T State University, Department of Computer Science"
 #Course Name: Python for Data Science
 #date: 2023-01-01
