@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-*  Quantum Information Science and Engineering (QISE) Scholar  (Jun. 2021 - Present)
+* Quantum Information Science and Engineering (QISE) Scholar  (Jun. 2021 - Present)
   * Selected as a graduate student scholar by IBM to work in Quantum Computing Researcg Center at NC A&T 
   * Study the state-of-the-art quantum machine learning and quantum natural language processing technologies
   * Working on a cross-cutting project of quantum machine learning
