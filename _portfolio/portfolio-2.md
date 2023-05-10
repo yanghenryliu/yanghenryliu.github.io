@@ -1,6 +1,6 @@
 ---
 title: "2022 College of Engineering Outstanding Rising Graduate Scholar"
-excerpt: "Outstanding Rising Graduate Scholar<br/><img src='/images/Rising Scholar.pdf'style="width: 300px; height: 200px;">"
+excerpt: "Outstanding Rising Graduate Scholar<br/><img src='/images/Rising Scholar.pdf'>"
 collection: portfolio
 ---
 
