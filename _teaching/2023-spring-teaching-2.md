@@ -1,6 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
+type: "Undergraduate & Graduate course"
 permalink: /teaching/2023-spring-teaching-2
 venue: "North Carolina A&T State University, Department of Computer Science"
 date: 2023-01-05
