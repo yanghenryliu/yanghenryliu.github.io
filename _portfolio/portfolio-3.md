@@ -1,6 +1,6 @@
 ---
 title: "Qiskit Global Summer School 2022 - Quantum Excellence"
-excerpt: "Qiskit<br/><img src='/images/Qiskit2022.jpeg' width="300"height="200">"
+excerpt: "Qiskit<br/><img src='/images/Qiskit2022.jpeg'>"
 collection: portfolio
 ---
 
