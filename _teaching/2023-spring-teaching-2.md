@@ -12,3 +12,8 @@ This course teaches the Python programming language along with an environment an
 
 NOTE: The course involves hands-on coding, and it is necessary for every student to have access to a computer. The operating system on the computer does not really matter, however, we will use Mac operating system for the lectures. We will focus on Python 3 and use the IPython interactive development environment (IDE) or the Juypter Notebook. 
 
+
+excerpt: "Course Evaluation <br/><img src='/images/COMP16101.png'>"
+"<br/><img src='/images/COMP16102.png'>"
+"<br/><img src='/images/COMP16103.png' >"
+
