@@ -1,10 +1,9 @@
 ---
 title: "COMP161 Python for Data Science (Instructor)"
 collection: teaching
-type: "Undergraduate course"
+type: "Spring 2023"
 permalink: /teaching/2023-spring-teaching-2
 venue: "NCAT"
-time: "Spring 2023"
 rate: 4.45/5.0
 location: "Greensboro, North Carolina"
 ---
