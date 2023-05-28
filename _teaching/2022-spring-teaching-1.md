@@ -3,8 +3,8 @@ title: "COMP841 Deep Learning (Teaching Assistant)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-spring-teaching-1
-#venue: "Spring"
-timee: Spring 2022
+venue: "NCAT"
+time: Spring 2022
 #location: "Greensboro, North Carolina"
 
 ---
