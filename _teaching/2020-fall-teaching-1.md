@@ -4,8 +4,8 @@ title: "COMP163 Introduction to Computer Programming (Teaching Assistant)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching-1
-venue: "Fall 20200"
-#date: 2020-08-15
+venue: "Fall 2020"
+#Time: 2020-08-15
 
 ---
 
