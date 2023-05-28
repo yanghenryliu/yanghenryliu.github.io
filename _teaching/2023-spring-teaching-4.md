@@ -2,7 +2,7 @@
 title: "COMP161 Python for Data Science (Instructor)"
 collection: teaching
 type: "Spring 2023"
-permalink: /teaching/2023-spring-teaching-2
+permalink: /teaching/2023-spring-teaching-4
 venue: "NCAT"
 rate: 4.45/5.0
 location: "Greensboro, North Carolina"
