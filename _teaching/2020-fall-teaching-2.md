@@ -1,9 +1,9 @@
 ---
-title: "Teaching Assistant"
+title: "COMP 360 Programming Languages (Teaching Assistant)"
 collection: teaching
-type: "Graduate course"
-permalink: /teaching/2021-spring-teaching-1
-venue: "Spring 2021"
+type: "Undergraduate course"
+permalink: /teaching/2020-fall-teaching-2
+venue: "Fall 2020"
 location: "Greensboro, North Carolina"
 ---
 This course focuses on the technologies that provide security services for the World Wide Web. It introduces a set of procedures, practices, and technologies for protecting web servers, web users, and their surrounding organizations. We discuss, understand and use various security technologies for the World Wide Web (WWW). How to use these technologies to secure WWW applications will be addressed.
