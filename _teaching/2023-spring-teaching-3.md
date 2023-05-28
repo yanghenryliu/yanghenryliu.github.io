@@ -2,7 +2,7 @@
 title: "BIOL490 Introduction of Quantum Computing (Teaching Assistant)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-spring-teaching-4
+permalink: /teaching/2023-spring-teaching-3
 venue: "North Carolina A&T State University, Department of Computer Science"
 date: 2023-01-05
 location: "Greensboro, North Carolina"
