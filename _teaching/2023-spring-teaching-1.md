@@ -3,8 +3,9 @@ title: "BIOL490 Introduction of Quantum Computing (Teaching Assistant)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-1
-venue: "Spring 2023"
-date: 2023-01-05
+time: "Spring 2023"
+#date: 2023-01-05
+
 location: "Greensboro, North Carolina"
 ---
 The purpose of the course was to introduce students to the fascinating field of quantum computing and inspire them to pursue a career in quantum technologies.
