@@ -1,5 +1,5 @@
 ---
-title: "COMP360: Programming Languages (Teaching Assistant)"
+title: "COMP360 Programming Languages (Teaching Assistant)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-Fall-teaching-2
