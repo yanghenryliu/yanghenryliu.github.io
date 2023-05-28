@@ -1,10 +1,10 @@
 ---
 title: "COMP 621 Programming Languages (Teaching Assistant)"
 collection: teaching
-type: "Graduate course"
+type: "Spring 2021"
 permalink: /teaching/2021-spring-teaching-1
 venue: "NCAT"
-time: "Spring 2021"
+#time: "Spring 2021"
 #location: "Greensboro, North Carolina"
 
 ---
