@@ -4,8 +4,7 @@ title: "COMP163 Introduction to Computer Programming (Teaching Assistant)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching-1
-venue: "NCAT"
-time: "Fall 2020"
+venue: "NCAT, Fall 2020"
 
 ---
 
