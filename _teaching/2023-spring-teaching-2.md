@@ -1,5 +1,5 @@
 ---
-title: "Instructor: COMP161 Python for Data Science"
+title: "COMP161 Python for Data Science (Instructor)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-2
