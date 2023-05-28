@@ -3,7 +3,7 @@ title: "COMP841 Deep Learning (Teaching Assistant)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-spring-teaching-1
-venue: "North Carolina A&T State University, Department of Computer Science"
+venue: "Spring 2022"
 date: 2022-01-05
 location: "Greensboro, North Carolina"
 ---
