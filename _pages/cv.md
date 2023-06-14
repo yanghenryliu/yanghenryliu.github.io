@@ -67,6 +67,7 @@ Service and leadership
 * Conference
   * Program Committee for IEEE 24th International Conference on Information Reuse and Integration for Data Science (IEEE IRI) 
   * Reviewer for 13th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2022)
+  * Reviewer for 2022 International Conference on Big Data Mining and Information Processing (BDMIP 2022)
 
 * Journal
   * Reviewer for IEEE Access (IF: 3.476)
