@@ -74,4 +74,4 @@ Service and leadership
   * Reviewer for IEEE Internet Computing (IF: 2.96)
   * Reviewer for JMIR Medical Education (IS: 4.49)
   * Reviewer for JMIR Aging (IS: 4.51)
-  * Reviewer for Journal of Medical Internet Research (JMIR) Publications (IF: 7.08)
+  * Reviewer for Journal of Medical Internet Research (JMIR) (IF: 7.08)
