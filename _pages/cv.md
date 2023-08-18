@@ -14,7 +14,7 @@ Education
 * B.S. in Henan Polytechnic University, Enectrical and Computer Engineering, 2018
 * B.S. in North Carolina A&T State University, Enectrical Engineering, 2018
 * M.S. in North Carolina A&T State University, Computer Science, 2020
-* Currently Ph.D Student in North Carolina A&T State University, Computer Science, 2024 (expected)
+* Currently Ph.D Candidate in North Carolina A&T State University, Computer Science, 2024 (expected)
 
 Work experience
 ======
