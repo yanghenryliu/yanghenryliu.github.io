@@ -14,7 +14,7 @@ Yang Liu received a B.S. in Electrical Engineering from North Carolina Agricultu
 News
 ======
 * 1 journal paper got accepted, Aug 22, 2023
-* 1 Conference paper got accepted, Aug 15, 2023
+* 1 conference paper got accepted, Aug 15, 2023
 * Yang Liu served as a member of the Program Committee for IEEE International Conference on Transdisciplinary AI (TransAI 2023).
 * Yang Liu served as a member of the Program Committee for IEEE IRI 2023 (24th IEEE International Conference on Information Reuse and Integration).
 * Yang Liu received National Science Foundation Student Travel award.
