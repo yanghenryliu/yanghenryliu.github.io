@@ -18,10 +18,11 @@ Education
 
 Work experience
 ======
-* Quantum Information Science and Engineering (QISE) Scholar  (Jun. 2021 - Present)
-  * Selected as a graduate student scholar by IBM to work in Quantum Computing Researcg Center at NC A&T 
-  * Study the state-of-the-art quantum machine learning and quantum natural language processing technologies
+* IBM HBCU Quantum Center Research Scholar  (Jun. 2022 - Present)
+  * Learning quantum software, tools, and platforms used in quantum computing
+  * Studying state-of-the-art quantum machine learning and quantum natural language processing technologies
   * Working on a cross-cutting project of quantum machine learning
+  * Developing the Quantum Information Science and Engineering (QISE) Program
 
 * National Science Foundation (NSF) Research Experiences for Undergraduates (REU) in Data Science Research Mentor (Summer 2020 & 2021 & 2022)
   * Involved with the planning and executed the REU program
