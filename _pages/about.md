@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Yang Liu received B.S. in Electrical Engineering from North Carolina Agricultural and Technical State University (Greensboro, NC, USA) and Henan Polytechnic University (Jiaozuo, Henan, China), and M.S. in Computer Science from North Carolina Agricultural and Technical State University. Currently, he is a Ph.D. candidate in Computer Science at North Carolina Agricultural and Technical State University. He have been working as both a graduate research assistant and a teaching assistant. His research area is Natural Language Processing (NLP), Social Media Mining, Public Health, Artificial Intelligence & Machine learning, and Quantum Computing. 
+Yang Liu received a B.S. in Electrical Engineering from North Carolina Agricultural and Technical State University (Greensboro, NC, USA) and Henan Polytechnic University (Jiaozuo, Henan, China). He also earned an M.S. in Computer Science from North Carolina Agricultural and Technical State University. Currently, he is a Ph.D. candidate in Computer Science at North Carolina Agricultural and Technical State University. He has been working as both a graduate research assistant and a teaching assistant. His research areas include Natural Language Processing (NLP), Social Media Mining, Public Health, Artificial Intelligence & Machine Learning, and Quantum Computing.
 
 
 News
 ======
-1. Yang Liu served as a member of the Program Committee for IEEE International Conference on Transdisciplinary AI (TransAI 2023).
-2. Yang Liu served as a member of the Program Committee for IEEE IRI 2023 (24th IEEE International Conference on Information Reuse and Integration).
-3. Yang Liu received National Science Foundation Student Travel award.
-4. Yang Liu was nominated as the 2022 College of Engineering Outstanding Rising Graduate Scholar.
-5. ... 
+* 1 journal paper got accepted, Aug 22, 2023
+* 1 Conference paper got accepted, Aug 15, 2023
+* Yang Liu served as a member of the Program Committee for IEEE International Conference on Transdisciplinary AI (TransAI 2023).
+* Yang Liu served as a member of the Program Committee for IEEE IRI 2023 (24th IEEE International Conference on Information Reuse and Integration).
+* Yang Liu received National Science Foundation Student Travel award.
+* Yang Liu was nominated as the 2022 College of Engineering Outstanding Rising Graduate Scholar.
+* ... 
 
 
 For more info
