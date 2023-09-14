@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Henan Polytechnic University, Enectrical and Computer Engineering, 2018
-* B.S. in North Carolina A&T State University, Enectrical Engineering, 2018
-* M.S. in North Carolina A&T State University, Computer Science, 2020
-* Currently Ph.D Candidate in North Carolina A&T State University, Computer Science, 2024 (expected)
+* B.S. in Enectrical and Computer Engineering, Henan Polytechnic University, 2018
+* B.S. in Enectrical and Computer Engineering, North Carolina A&T State University, 2018
+* M.S. in Computer Science, North Carolina A&T State University, 2020
+* Ph.D Candidate in Computer Science, North Carolina A&T State University, 2024 (expected)
 
 Work experience
 ======
@@ -73,8 +73,8 @@ Service and leadership
   * Reviewer for 2022 International Conference on Big Data Mining and Information Processing (BDMIP 2022)
 
 * Journal
-  * Reviewer for IEEE Access (IF: 3.476)
-  * Reviewer for IEEE Internet Computing (IF: 2.96)
-  * Reviewer for JMIR Medical Education (IS: 4.49)
-  * Reviewer for JMIR Aging (IS: 4.51)
-  * Reviewer for Journal of Medical Internet Research (JMIR) (IF: 7.08)
+  * Reviewer for IEEE Access 
+  * Reviewer for IEEE Internet Computing 
+  * Reviewer for JMIR Medical Education 
+  * Reviewer for JMIR Aging 
+  * Reviewer for Journal of Medical Internet Research (JMIR) 
