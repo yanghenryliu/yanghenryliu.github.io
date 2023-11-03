@@ -43,7 +43,7 @@ Work experience
 Skills
 ======
 * Computer Languages 
-  * Python, Qisskit, SQL, and JAVA
+  * Python, Qiskit, SQL, and JAVA
 * ML & DL Frameworks
   * Scikit-Learn, TensorFlow, Keras, PyTourch
 * Natural Language Processing
