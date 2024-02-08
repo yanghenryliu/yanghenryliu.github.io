@@ -72,6 +72,7 @@ Teaching
 Service and leadership
 ======
 * Conference
+  * Program Committee for IEEE 25th International Conference on Information Reuse and Integration for Data Science (IEEE IRI 2024)
   * Program Committee for IEEE International Conference on Transdisciplinary AI (TransAI 2023)
   * Program Committee for IEEE 24th International Conference on Information Reuse and Integration for Data Science (IEEE IRI 2023)
   * Ethics Reviewer for Neural Information Processing Systems (NeurIPS) 2023
