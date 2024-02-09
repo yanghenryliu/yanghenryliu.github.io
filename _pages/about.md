@@ -13,12 +13,12 @@ Yang Liu received a B.S. in Electrical and Computer Engineering from North Carol
 
 News
 ======
-[Award] Yang Liu have been selected as the winner of the IEEE Region 3 Student Professional Activities Service Award (March 23, 2024)
-[Service] Yang Liu serves on the Program Committee for IEEE IRI 2024 (25th IEEE International Conference on Information Reuse and Integration). 
-[Service] Yang Liu served as a member of the Program Committee for IEEE International Conference on Transdisciplinary AI (TransAI 2023).
-[Service] Yang Liu served as a member of the Program Committee for IEEE IRI 2023 (24th IEEE International Conference on Information Reuse and Integration).
-[Award] Yang Liu received National Science Foundation Student Travel award.
-[Award] Yang Liu was nominated as the 2022 College of Engineering Outstanding Rising Graduate Scholar.
+* [Award] Yang Liu have been selected as the winner of the IEEE Region 3 Student Professional Activities Service Award (March 23, 2024)
+* [Service] Yang Liu serves on the Program Committee for IEEE IRI 2024 (25th IEEE International Conference on Information Reuse and Integration). 
+* [Service] Yang Liu served as a member of the Program Committee for IEEE International Conference on Transdisciplinary AI (TransAI 2023).
+* [Service] Yang Liu served as a member of the Program Committee for IEEE IRI 2023 (24th IEEE International Conference on Information Reuse and Integration).
+* [Award] Yang Liu received National Science Foundation Student Travel award.
+* [Award] Yang Liu was nominated as the 2022 College of Engineering Outstanding Rising Graduate Scholar.
 * ... 
 
 
