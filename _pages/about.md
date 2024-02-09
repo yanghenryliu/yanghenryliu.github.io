@@ -13,7 +13,7 @@ Yang Liu received a B.S. in Electrical and Computer Engineering from North Carol
 
 News
 ======
-* Yang Liu have been selected as the winner of the IEEE Region 3 Student Professional Activities Service Award
+* Yang Liu have been selected as the winner of the IEEE Region 3 Student Professional Activities Service Award (March 23, 2024)
 * 1 journal paper got accepted in IEEE Access, Aug 22, 2023
 * 1 conference paper got accepted in IEEE Transdisciplinary AI, Aug 15, 2023
 * Yang Liu served as a member of the Program Committee for IEEE International Conference on Transdisciplinary AI (TransAI 2023).
