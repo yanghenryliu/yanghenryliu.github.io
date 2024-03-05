@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical and Computer Engineering, Henan Polytechnic University, 2018
-* B.S. in Electrical and Computer Engineering, North Carolina A&T State University, 2018
+* B.S. in Electrical Engineering, Henan Polytechnic University, 2018
+* B.S. in Electrical Engineering, North Carolina A&T State University, 2018
 * M.S. in Computer Science, North Carolina A&T State University, 2020
 * Ph.D Candidate in Computer Science, North Carolina A&T State University, 2024 (expected)
 
