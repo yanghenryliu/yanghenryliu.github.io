@@ -17,7 +17,22 @@ News
 ======
 * <p style="color: red;">[Publication].</p> A journal paper has been accepted in AI and Ethics. (March 2024)
 * [Award] Yang Liu have been selected as the winner of the IEEE Region 3 Student Professional Activities Service Award (March 23, 2024)
-* [Service] Yang Liu serves on the Program Committee for IEEE IRI 2024 (25th IEEE International Conference on Information Reuse and Integration). 
+* [Service] Yang Liu serves on the Program Committee for IEEE IRI 2024 (25th IEEE International Conference on Information Reuse and Integration).
+* <!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .service {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+
+<p>[<span class="service">Service</span>] Yang Liu serves on the Program Committee for IEEE IRI 2024 (25th IEEE International Conference on Information Reuse and Integration).</p>
+
+</body>
+</html>
 * [Service] Yang Liu served as a member of the Program Committee for IEEE International Conference on Transdisciplinary AI (TransAI 2023).
 * [Service] Yang Liu served as a member of the Program Committee for IEEE IRI 2023 (24th IEEE International Conference on Information Reuse and Integration).
 * [Award] Yang Liu received National Science Foundation Student Travel award.
