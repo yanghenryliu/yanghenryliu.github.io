@@ -30,14 +30,14 @@ News
     </style>
 </head>
 <body>
-<p> <span class="award">[Award]</span> Yang Liu received the IEEE Region 3 Student Professional Activities Service Award. (March 2024)</p>
+<p> <span class="award">[Award]</span> Received the IEEE Region 3 Student Professional Activities Service Award. (March 2024)</p>
 <p> <span class="publication">[Publication]</span> A journal paper has been accepted in AI and Ethics. (March 2024)</p>
-<p> <span class="service">[Service]</span> Yang Liu served as a member of the Program Committee for IEEE IRI 2024 (25th IEEE International Conference on Information Reuse and Integration).</p>
+<p> <span class="service">[Service]</span> Served as a member of the Program Committee for IEEE IRI 2024 (25th IEEE International Conference on Information Reuse and Integration).</p>
 <p> <span class="publication">[Publication]</span> One journal paper and one conference paper has been accepted.</p>
-<p> <span class="service">[Service]</span> Yang Liu served as a member of the Program Committee for IEEE IRI 2023 (24th IEEE International Conference on Information Reuse and Integration).</p>
-<p> <span class="service">[Service]</span> Yang Liu served as an Ethics ReviewEthic Reviewer for NeurIPS 2023.</p>
-<p> <span class="service">[Service]</span> Yang Liu served as a member of the Program Committee for IEEE TransAI 2023 (IEEE International Conference on Transdisciplinary AI).</p>
-<p> <span class="award">[Award]</span> Yang Liu received the National Science Foundation Student Travel Award.</p>
+<p> <span class="service">[Service]</span> Served as a member of the Program Committee for IEEE IRI 2023 (24th IEEE International Conference on Information Reuse and Integration).</p>
+<p> <span class="service">[Service]</span> Served as an Ethics ReviewEthic Reviewer for NeurIPS 2023.</p>
+<p> <span class="service">[Service]</span> Served as a member of the Program Committee for IEEE TransAI 2023 (IEEE International Conference on Transdisciplinary AI).</p>
+<p> <span class="award">[Award]</span> Received the National Science Foundation Student Travel Award.</p>
 
 </body>
 </html>
