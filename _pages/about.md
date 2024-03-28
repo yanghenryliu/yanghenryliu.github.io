@@ -30,11 +30,12 @@ News
     </style>
 </head>
 <body>
-<p>* <span class="publication">Publication</span> A journal paper has been accepted in AI and Ethics. (March 2024)</p>
-<p>* <span class="service">[Service]</span> Yang Liu served as a member of the Program Committee for IEEE IRI 2024 (25th IEEE International Conference on Information Reuse and Integration).</p>
-<p>* <span class="award">Award</span> Yang Liu received the National Science Foundation Student Travel award.</p>
-<p>* [<span class="service">Service</span>] Yang Liu served as a member of the Program Committee for IEEE IRI 2023 (24th IEEE International Conference on Information Reuse and Integration).</p>
-<p>* [<span class="award">Award</span>] Yang Liu received the National Science Foundation Student Travel award.</p>
+<p> <span class="publication">[Publication]</span> A journal paper has been accepted in AI and Ethics. (March 2024)</p>
+<p> <span class="service">[Service]</span> Yang Liu served as a member of the Program Committee for IEEE IRI 2024 (25th IEEE International Conference on Information Reuse and Integration).</p>
+<p> <span class="award">[Award]</span> Yang Liu received the National Science Foundation Student Travel award.</p>
+<p> <span class="service">[Service]</span> Yang Liu served as a member of the Program Committee for IEEE IRI 2023 (24th IEEE International Conference on Information Reuse and Integration).</p>
+<p> <span class="service">[Service]</span> Yang Liu served as a member of the Program Committee for IEEE TransAI 2023 (IEEE International Conference on Transdisciplinary AI).</p>
+<p> <span class="award">[Award]</span> Yang Liu received the National Science Foundation Student Travel award.</p>
 
 </body>
 </html>
