@@ -15,63 +15,29 @@ Yang Liu received a B.S. in Electrical Engineering from North Carolina Agricultu
 
 News
 ======
-* <p style="color: red;">[Publication].</p> A journal paper has been accepted in AI and Ethics. (March 2024)
-* <html>
-<head>
-    <style>
-        .service {
-            color: Gold;
-        }
-    </style>
-</head>
-<body>
-
-<p>[<span class="service">Service</span>] A journal paper has been accepted in AI and Ethics. (March 2024).</p>
-</body>
-</html>
-
-* [Award] Yang Liu have been selected as the winner of the IEEE Region 3 Student Professional Activities Service Award (March 23, 2024)
-* [Service] Yang Liu serves on the Program Committee for IEEE IRI 2024 (25th IEEE International Conference on Information Reuse and Integration).
-
-* <html>
+<html>
 <head>
     <style>
         .service {
             color: blue;
         }
-    </style>
-</head>
-<body>
-
-<p>[<span class="service">Service</span>] Yang Liu serves on the Program Committee for IEEE IRI 2024 (25th IEEE International Conference on Information Reuse and Integration).</p>
-</body>
-</html>
-
-* [Service] Yang Liu served as a member of the Program Committee for IEEE International Conference on Transdisciplinary AI (TransAI 2023).
-* [Service] Yang Liu served as a member of the Program Committee for IEEE IRI 2023 (24th IEEE International Conference on Information Reuse and Integration).
-* [Award] Yang Liu received National Science Foundation Student Travel award.
-* [Award] Yang Liu was nominated as the 2022 College of Engineering Outstanding Rising Graduate Scholar.
-* ...
-* <html>
-<head>
-    <style>
-        .service {
-            color: blue;
-        }
-
         .award {
             color: green;
         }
+      .publication {
+            color: gold;
+        }
     </style>
 </head>
 <body>
-
+<p>* [<span class="publication">Publication</span>] A journal paper has been accepted in AI and Ethics. (March 2024)</p>
+<p>* [<span class="service">Service</span>] Yang Liu served as a member of the Program Committee for IEEE IRI 2024 (25th IEEE International Conference on Information Reuse and Integration).</p>
+<p>* [<span class="award">Award</span>] Yang Liu received the National Science Foundation Student Travel award.</p>
 <p>* [<span class="service">Service</span>] Yang Liu served as a member of the Program Committee for IEEE IRI 2023 (24th IEEE International Conference on Information Reuse and Integration).</p>
 <p>* [<span class="award">Award</span>] Yang Liu received the National Science Foundation Student Travel award.</p>
 
 </body>
 </html>
-
 
 
 For more info
