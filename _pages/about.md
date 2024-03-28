@@ -11,6 +11,9 @@ redirect_from:
 Yang Liu received a B.S. in Electrical Engineering from North Carolina Agricultural and Technical State University (Greensboro, NC, USA) and Henan Polytechnic University (Jiaozuo, Henan, China). He also earned an M.S. in Computer Science from North Carolina Agricultural and Technical State University. Currently, he is a Ph.D. candidate in Computer Science at North Carolina Agricultural and Technical State University. He has been working as both a graduate research assistant and a teaching assistant. His research areas include Natural Language Processing (NLP), Social Media Mining, Public Health, Pandemic Surveillance, Artificial Intelligence & Machine Learning, Human-Computer Interaction (HCI), and Quantum Computing.
 
 
+======
+* Yang Liu has successfully defended his dissertation titled 'Pandemic Surveillance Using Social Media Data, Natural Language Processing, and Machine Learning' on March 21, 2024.
+
 News
 ======
 * [Publication] A journal paper has been accepted in AI and Ethics. (March 2024)
