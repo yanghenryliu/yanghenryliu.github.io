@@ -1,7 +1,7 @@
 ---
-title: "2022 College of Engineering Outstanding Rising Graduate Scholar"
-excerpt: "Outstanding Rising Graduate Scholar<br/><img src='/images/Rising Scholar.pdf' width='500' height='300'>"
+title: "2022 National Science Foundation Student Travel Award"
+excerpt: "NSF Travel Award <br/><img src='images/NSF.jpeg' width='500' height='300'>"
 collection: portfolio
 ---
 
-Certificate of Achievement Prsented to Yang Liu as the Recipient of the 2022 College of Engineering Outstanding Rising Grfaduate Scholar Award. 
+Form IEEE/ACM CHASE'22 Conference
