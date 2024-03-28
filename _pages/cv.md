@@ -14,7 +14,7 @@ Education
 * B.S. in Electrical Engineering, Henan Polytechnic University, 2018
 * B.S. in Electrical Engineering, North Carolina A&T State University, 2018
 * M.S. in Computer Science, North Carolina A&T State University, 2020
-* Ph.D Candidate in Computer Science, North Carolina A&T State University, 2024 (expected)
+* Ph.D in Computer Science, North Carolina A&T State University, 2024
 
 Work experience
 ======
@@ -47,7 +47,7 @@ Skills
 * ML & DL Frameworks
   * Scikit-Learn, TensorFlow, Keras, PyTourch
 * Natural Language Processing
-  * Tokenization, Stop Words Removal, Lemmatization & Stemming, TF-IDF, Word Embedding, Topic Modeling, Sentiment Analysis, Text Classification, Named Entity Recognition 
+  * Tokenization, Stop Words Removal, Lemmatization & Stemming, TF-IDF, Word Embedding, Topic Modeling, Sentiment Analysis, Text Classification, Named Entity Recognition, LLM
 * Natural Language Processing
    * Github, LaTex, IBM Quantum Lab, qBraid, Google Colab, GPU Workstation, Tableau
      
