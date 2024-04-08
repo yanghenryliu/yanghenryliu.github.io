@@ -30,6 +30,7 @@ News
     </style>
 </head>
 <body>
+<p> <span class="publication">[Publication]</span> A journal paper has been accepted in Journal of Racial and Ethnic Health Disparities. (April 2024)</p>
 <p> <span class="award">[Award]</span> Received the IEEE Region 3 Student Professional Activities Service Award. (March 2024)</p>
 <p> <span class="publication">[Publication]</span> A journal paper has been accepted in AI and Ethics. (March 2024)</p>
 <p> <span class="service">[Service]</span> Served as a member of the Program Committee for IEEE IRI 2024.</p>
