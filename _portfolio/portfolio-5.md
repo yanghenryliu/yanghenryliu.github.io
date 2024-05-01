@@ -1,1 +1,7 @@
-portfolio-4.md
+---
+title: "Outstanding Senior Graduate Research Assistant"
+excerpt: "2024 Outstanding Senior Graduate Research Assistant<br/><img src='/images/OSRA.pdf' width='500' height='300'>"
+collection: portfolio
+---
+
+Recognized as an Outstanding Senior Graduate Research Assistant for the 2023-2024 academic year! 
