@@ -1,6 +1,6 @@
 ---
-title: "Outstanding Senior Graduate Research Assistant"
-excerpt: "2024 Outstanding Senior Graduate Research Assistant<br/><img src='/images/OSRA.pdf' width='500' height='300'>"
+title: "2024 Outstanding Senior Graduate Research Assistant"
+excerpt: "Outstanding Senior Graduate Research Assistant<br/><img src='/images/OSRA.pdf' width='500' height='300'>"
 collection: portfolio
 ---
 
