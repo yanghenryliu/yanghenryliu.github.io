@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* IBM HBCU Quantum Center Research Scholar  (Jun. 2022 - Present)
+* IBM HBCU Quantum Center Research Scholar  (Aug. 2021 - Present)
   * Trained in quantum software, tools, and platforms used in quantum computing.
   * Explored state-of-the-art quantum machine learning and quantum natural language processing technologies.
   * Worked on a cross-cutting project in quantum machine learning.
