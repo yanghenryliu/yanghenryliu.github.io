@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yang Liu"
 title_separator          : "-"
-name                     : &name "Assistant Professor"
+#name                     : &name "Name"
 description              : &description "personal description"
 url                      : https://yanghenryliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yang Liu"
+  name             : "Yang Liu, Ph.D."
   avatar           : "profile.png"
-  bio              : "Ph.D."
+  bio              : "Assistant Professor"
   location         : "Greensboro, NC"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
