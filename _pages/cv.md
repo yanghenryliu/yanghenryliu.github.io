@@ -18,7 +18,12 @@ Education
 
 Work experience
 ======
-* IBM HBCU Quantum Center Research Scholar  (Aug. 2021 - Present)
+
+* Lecture in Department of Computer Science, NC A&T State University (01/2023 – 05/2023)
+  * Python for Data Science (COMP161), Class size: 20 (Face to Face)
+  * Overall Rating of Course Evaluation: 4.45/5.00
+  
+* IBM HBCU Quantum Center Scholar  (Aug. 2021 - Present)
   * Trained in quantum software, tools, and platforms used in quantum computing.
   * Explored state-of-the-art quantum machine learning and quantum natural language processing technologies.
   * Worked on a cross-cutting project in quantum machine learning.
@@ -30,7 +35,7 @@ Work experience
   * Guided students in producing oral presentations and posters at the conclusion of the summer program.
   * Mentored a total of one early college student, six undergraduate students, and one graduate student.
   
-* Graduate Research Assistant in Human-Centered AI (HCAI) Lab (Aug. 2020 - Present)
+* Graduate Research Assistant in Human-Centered AI (HCAI) Lab (May. 2020 - Present)
   * Research areas: Natural Language Processing (NLP), AI & ML, Social Media Mining, Public Health Surveillance, and Quantum Computing.
   * Extracted information from unstructured data, identifying patterns, trends, and relationships within datasets.
   * Assisted lab colleagues and junior researchers in understanding and implementing research techniques and tools.
@@ -71,14 +76,18 @@ Teaching
   
 Service and leadership
 ======
-* Conference
-  * Reviewer for 2024 International Conference on Asian Language Processing (IALP2024)
-  * Program Committee for IEEE 25th International Conference on Information Reuse and Integration for Data Science (IEEE IRI 2024)
-  * Program Committee for IEEE International Conference on Transdisciplinary AI (TransAI 2023)
-  * Program Committee for IEEE 24th International Conference on Information Reuse and Integration for Data Science (IEEE IRI 2023)
-  * Ethics Reviewer for Neural Information Processing Systems (NeurIPS) 2023
-  * Reviewer for 13th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2022)
-  * Reviewer for 2022 International Conference on Big Data Mining and Information Processing (BDMIP 2022)
+* Program Committee
+  * International Conference on AI x Science, Engineering, and Technology (AIxSET 2024)
+  * IEEE International Conference on Information Reuse and Integration for Data Science (IEEE IRI 2024)
+  * IEEE International Conference on Transdisciplinary AI (TransAI 2023)
+  * IEEE International Conference on Information Reuse and Integration for Data Science (IEEE IRI 2023)
+
+* Reviewer
+  * American Public Health Association (APHA) Public Health Film Festival Program 2024
+  * International Conference on Asian Language Processing (IALP 2024)
+  * Neural Information Processing Systems (NeurIPS) 2023
+  * ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022
+  * International Conference on Big Data Mining and Information Processing (BDMIP)
 
 * Journal
   * Reviewer for Connection Science
