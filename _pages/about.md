@@ -9,7 +9,7 @@ redirect_from:
 ---
 Yang Liu received a B.S. in Electrical Engineering from North Carolina Agricultural and Technical State University (Greensboro, NC, USA) and Henan Polytechnic University (Jiaozuo, Henan, China). He also earned his M.S. and Ph.D. in Computer Science from North Carolina Agricultural and Technical State University. His research areas include Natural Language Processing (NLP), AI & ML, Social Media Mining, Public Health, Pandemic Surveillance, Human-Computer Interaction (HCI), and Quantum Computing.
 
-<p style="color: red;">Yang Liu has successfully defended his doctoral dissertation!</p> 
+<p style="color: red;">Yang Liu will join North Carolina Central University (NCCU) as a tenure-track Assistant Professor in Fall 2024. </p> 
 
 
 News
