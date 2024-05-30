@@ -77,7 +77,7 @@ Teaching
 Service and leadership
 ======
 * Program Committee
-  * International Conference on AI x Science, Engineering, and Technology (AIxSET 2024)
+  * IEEE International Conference on AI x Science, Engineering, and Technology (AIxSET 2024)
   * IEEE International Conference on Information Reuse and Integration for Data Science (IEEE IRI 2024)
   * IEEE International Conference on Transdisciplinary AI (TransAI 2023)
   * IEEE International Conference on Information Reuse and Integration for Data Science (IEEE IRI 2023)
@@ -85,7 +85,7 @@ Service and leadership
 * Reviewer
   * American Public Health Association (APHA) Public Health Film Festival Program 2024
   * International Conference on Asian Language Processing (IALP 2024)
-  * Neural Information Processing Systems (NeurIPS) 2023
+  * Neural Information Processing Systems (NeurIPS) 2023, 2024
   * ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022
   * International Conference on Big Data Mining and Information Processing (BDMIP)
 
