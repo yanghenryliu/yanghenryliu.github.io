@@ -30,6 +30,7 @@ News
 </head>
 <body>
 <p> <span class="publication">[Publication]</span> A conference paper has been accepted. (June 2024)</p>
+<p> <span class="service">[Service]</span> Served as a member of the Program Committee for IEEE IRI 2024, AI x Science, Engineering, and Technology (AIXSET) 2024. (May 2024).</p>
 <p> <span class="award">[Award]</span> Recognized as an Outstanding Senior Graduate Research Assistant. (April 2024)</p>
 <p> <span class="publication">[Publication]</span> A journal paper has been accepted in Journal of Racial and Ethnic Health Disparities. (April 2024)</p>
 <p> <span class="award">[Award]</span> Received the IEEE Region 3 Student Professional Activities Service Award. (March 2024)</p>
