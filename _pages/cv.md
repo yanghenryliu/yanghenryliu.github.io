@@ -18,7 +18,10 @@ Education
 
 Work experience
 ======
-
+* Tenure-track Assistant Professor in Department of Computer Information Systems , NC A&T State University (07/2024 – )
+  
+* Research Associate in Department of Computer Science, NC A&T State University (07/2024)
+  
 * Lecture in Department of Computer Science, NC A&T State University (01/2023 – 05/2023)
   * Python for Data Science (COMP161), Class size: 20 (Face to Face)
   * Overall Rating of Course Evaluation: 4.45/5.00
@@ -86,7 +89,7 @@ Service and leadership
   * Neural Information Processing Systems (NeurIPS) 2024
   * International Conference on Asian Language Processing (IALP 2024)
   * American Public Health Association (APHA) Public Health Film Festival Program 2024
-  * Neural Information Processing Systems (NeurIPS) 2023
+  * Ethics Reviewer for Neural Information Processing Systems (NeurIPS) 2023
   * ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022
   * International Conference on Big Data Mining and Information Processing (BDMIP)
 
