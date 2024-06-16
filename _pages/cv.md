@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Tenure-track Assistant Professor in Department of Computer Information Systems in School of Business, North Carolina Central University (07/2024 – )
+* Tenure-track Assistant Professor in Department of Computer Information Systems, North Carolina Central University (07/2024 – )
   
 * Research Associate in Department of Computer Science, NC A&T State University (07/2024)
   
