@@ -89,7 +89,7 @@ Service and leadership
   * Neural Information Processing Systems (NeurIPS) 2024
   * International Conference on Asian Language Processing (IALP 2024)
   * American Public Health Association (APHA) Public Health Film Festival Program 2024
-  * Ethics Reviewer for Neural Information Processing Systems (NeurIPS) 2023
+  * Neural Information Processing Systems (NeurIPS) 2023
   * ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022
   * International Conference on Big Data Mining and Information Processing (BDMIP)
 
