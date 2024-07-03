@@ -56,7 +56,7 @@ Skills
   * Scikit-Learn, TensorFlow, Keras, PyTourch
 * Natural Language Processing
   * Tokenization, Stop Words Removal, Lemmatization & Stemming, TF-IDF, Word Embedding, Topic Modeling, Sentiment Analysis, Text Classification, Named Entity Recognition, LLM
-* Natural Language Processing
+* Others
    * Github, LaTex, IBM Quantum Lab, qBraid, Google Colab, GPU Workstation, Tableau
      
 Publications
