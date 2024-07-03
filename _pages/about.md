@@ -9,8 +9,6 @@ redirect_from:
 ---
 Yang Liu is currently a tenure-track Assistant Professor in the Department of Computer Information Systems at North Carolina Central University (Durham, NC, USA). He is an IBM-HBCU Quantum Center scholar. His research areas include Natural Language Processing (NLP), AI & ML, Social Media Mining, Public Health, Pandemic Surveillance, Human-Computer Interaction (HCI), and Quantum Computing. 
 
-<p style="color: red;">Yang Liu will join North Carolina Central University (NCCU) as a tenure-track Assistant Professor in Fall 2024. </p> 
-
 
 News
 ======
