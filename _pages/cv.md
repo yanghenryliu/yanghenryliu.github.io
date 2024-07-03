@@ -38,7 +38,7 @@ Work experience
   * Guided students in producing oral presentations and posters at the conclusion of the summer program.
   * Mentored a total of one early college student, six undergraduate students, and one graduate student.
   
-* Graduate Research Assistant in Human-Centered AI (HCAI) Lab (May. 2020 - Present)
+* Graduate Research Assistant in Human-Centered AI (HCAI) Lab (May. 2020 - May. 2024)
   * Research areas: Natural Language Processing (NLP), AI & ML, Social Media Mining, Public Health Surveillance, and Quantum Computing.
   * Extracted information from unstructured data, identifying patterns, trends, and relationships within datasets.
   * Assisted lab colleagues and junior researchers in understanding and implementing research techniques and tools.
