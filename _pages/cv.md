@@ -80,6 +80,7 @@ Teaching
 Service and leadership
 ======
 * Program Committee
+  * IEEE International Conference on Artificial Intelligence for Business (AIxB 2024)
   * IEEE International Conference on AI x Science, Engineering, and Technology (AIxSET 2024)
   * IEEE International Conference on Information Reuse and Integration for Data Science (IEEE IRI 2024)
   * IEEE International Conference on Transdisciplinary AI (TransAI 2023)
