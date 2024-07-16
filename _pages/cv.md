@@ -80,12 +80,12 @@ Teaching
 Service and leadership
 ======
 * Program Committee
-  * IEEE International Conference on Artificial Intelligence x Humanities, Education, and Art (IEEE AIxHEA 2024)
-  * IEEE International Conference on Artificial Intelligence x Business (IEEE AIxB 2024)
-  * IEEE International Conference on Artificial Intelligence x Science, Engineering, and Technology (IEEE AIxSET 2024)
-  * IEEE International Conference on Information Reuse and Integration for Data Science (IEEE IRI 2024)
-  * IEEE International Conference on Transdisciplinary AI (IEEE TransAI 2023)
-  * IEEE International Conference on Information Reuse and Integration for Data Science (IEEE IRI 2023)
+  * IEEE International Conference on Artificial Intelligence x Humanities, Education, and Art (AIxHEART 2024)
+  * IEEE International Conference on Artificial Intelligence x Business (AIxB 2024)
+  * IEEE International Conference on Artificial Intelligence x Science, Engineering, and Technology (AIxSET 2024)
+  * IEEE International Conference on Information Reuse and Integration for Data Science (IRI 2024)
+  * IEEE International Conference on Transdisciplinary AI (TransAI 2023)
+  * IEEE International Conference on Information Reuse and Integration for Data Science (IRI 2023)
 
 * Reviewer
   * Neural Information Processing Systems (NeurIPS) 2024
