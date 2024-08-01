@@ -80,26 +80,28 @@ Teaching
 Service and leadership
 ======
 * Program Committee
-  * IEEE International Conference on Artificial Intelligence x Humanities, Education, and Art (AIxHEART 2024)
-  * IEEE International Conference on Artificial Intelligence x Business (AIxB 2024)
-  * IEEE International Conference on Artificial Intelligence x Science, Engineering, and Technology (AIxSET 2024)
-  * IEEE International Conference on Information Reuse and Integration for Data Science (IRI 2024)
   * IEEE International Conference on Transdisciplinary AI (TransAI 2023)
   * IEEE International Conference on Information Reuse and Integration for Data Science (IRI 2023)
+  * IEEE International Conference on Information Reuse and Integration for Data Science (IRI 2024)
+  * IEEE International Conference on Artificial Intelligence x Science, Engineering, and Technology (AIxSET 2024)
+  * IEEE International Conference on Artificial Intelligence x Business (AIxB 2024)
+  * IEEE International Conference on Artificial Intelligence x Humanities, Education, and Art (AIxHEART 2024)
+  
 
 * Reviewer
-  * Neural Information Processing Systems (NeurIPS) 2024
-  * International Conference on Asian Language Processing (IALP 2024)
-  * American Public Health Association (APHA) Public Health Film Festival Program 2024
-  * Neural Information Processing Systems (NeurIPS) 2023
+  * International Conference on Big Data Mining and Information Processing (BDMIP) 2022
   * ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022
-  * International Conference on Big Data Mining and Information Processing (BDMIP)
+  * Ethics Reviewer for Neural Information Processing Systems (NeurIPS) 2023
+  * American Public Health Association (APHA) Public Health Film Festival Program 2024
+  * International Conference on Asian Language Processing (IALP 2024)
+  * Reviewer for NeurIPS 2024
+  * Ethics Reviewer for NeurIPS 2024
 
 * Journal
-  * Reviewer for Connection Science
+  * Reviewer for JMIR Aging
+  * Reviewer for IEEE Access
   * Reviewer for AI and Ethics
-  * Reviewer for IEEE Access 
+  * Reviewer for Connection Science
+  * Reviewer for JMIR Medical Education
   * Reviewer for IEEE Internet Computing 
-  * Reviewer for JMIR Medical Education 
-  * Reviewer for JMIR Aging 
   * Reviewer for Journal of Medical Internet Research (JMIR) 
