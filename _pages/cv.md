@@ -82,6 +82,7 @@ Service and leadership
 * Program Committee
   * IEEE International Conference on Transdisciplinary AI (TransAI 2023)
   * IEEE International Conference on Information Reuse and Integration for Data Science (IRI 2023)
+  * International Conference on Asian Language Processing (IALP 2024)
   * IEEE International Conference on Information Reuse and Integration for Data Science (IRI 2024)
   * IEEE International Conference on Artificial Intelligence x Science, Engineering, and Technology (AIxSET 2024)
   * IEEE International Conference on Artificial Intelligence x Business (AIxB 2024)
@@ -93,7 +94,6 @@ Service and leadership
   * ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022
   * Ethics Reviewer for Neural Information Processing Systems (NeurIPS) 2023
   * American Public Health Association (APHA) Public Health Film Festival Program 2024
-  * International Conference on Asian Language Processing (IALP 2024)
   * Reviewer for NeurIPS 2024
   * Ethics Reviewer for NeurIPS 2024
 
