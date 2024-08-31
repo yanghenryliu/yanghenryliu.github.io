@@ -84,7 +84,7 @@ Service and leadership
   * IEEE International Conference on Information Reuse and Integration for Data Science (IRI 2023)
   * International Conference on Asian Language Processing (IALP 2024)
   * IEEE International Conference on Information Reuse and Integration for Data Science (IRI 2024)
-  * IEEE International Conference on Artificial Intelligence x Science, Engineering, and Technology (AIxSET 2024)
+  * IEEE International Conference on Artificial Intelligence in Science, Engineering, and Technology (AIxSET 2024)
   * IEEE International Conference on Artificial Intelligence x Business (AIxB 2024)
   * IEEE International Conference on Artificial Intelligence x Humanities, Education, and Art (AIxHEART 2024)
   
