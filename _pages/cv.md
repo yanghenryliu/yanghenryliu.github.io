@@ -19,14 +19,14 @@ Education
 Work experience
 ======
 * Tenure-track Assistant Professor in Department of Computer Information Systems, North Carolina Central University (07/2024 – )
-  
-* Research Associate in Department of Computer Science, NC A&T State University (07/2024)
+  * Duke Power Endowed Professor
+  * IBM-HBCU Quantum Center (IHQC) Faculty Fellow
   
 * Lecture in Department of Computer Science, NC A&T State University (01/2023 – 05/2023)
   * Python for Data Science (COMP161), Class size: 20 (Face to Face)
   * Overall Rating of Course Evaluation: 4.45/5.00
   
-* IBM HBCU Quantum Center Scholar  (Aug. 2021 - Present)
+* IBM-HBCU Quantum Center Scholar (Aug. 2021 - Jul. 2024)
   * Trained in quantum software, tools, and platforms used in quantum computing.
   * Explored state-of-the-art quantum machine learning and quantum natural language processing technologies.
   * Worked on a cross-cutting project in quantum machine learning.
