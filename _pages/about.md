@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Yang Liu is currently a tenure-track Assistant Professor in the Department of Computer Information Systems at North Carolina Central University (Durham, NC, USA). He is an IBM-HBCU Quantum Center scholar. His research areas include Natural Language Processing (NLP), AI & ML, Social Media Mining, Public Health, Pandemic Surveillance, Human-Computer Interaction (HCI), and Quantum Computing. 
+Yang Liu is currently a tenure-track Assistant Professor in the Department of Computer Information Systems at North Carolina Central University (Durham, NC, USA). He is an IBM-HBCU Quantum Center (IHQC) Faculty Fellow and Duke Power Endowed Professor. His research areas include Natural Language Processing (NLP), AI & ML, Social Media Mining, Public Health, Pandemic Surveillance, Human-Computer Interaction (HCI), and Quantum Computing. 
 
 
 News
@@ -27,8 +27,10 @@ News
     </style>
 </head>
 <body>
+<p> <span class="award">[Award]</span> Appointed as the Duke Power Endowed Professor. (August 2024)</p>
+<p> <span class="publication">[Publication]</span> Two conference paper has been accepted. (August 2024)</p>
 <p> <span class="service">[Service]</span> Served as a member of the Program Committee for IEEE IRI 2024, IEEE AIxSET 2024, IEEE AIxB 2024, and IEEE AIxHEART 2024.</p>
-<p> <span class="service">[Service]</span> Served as a Reviewer for NeurIPS 2024.</p>
+<p> <span class="service">[Service]</span> Served as a Reviewer and an Ethic Reviewer for NeurIPS 2024.</p>
 <p> <span class="publication">[Publication]</span> A conference paper has been accepted. (June 2024)</p>
 <p> <span class="award">[Award]</span> Recognized as an Outstanding Senior Graduate Research Assistant. (April 2024)</p>
 <p> <span class="publication">[Publication]</span> A journal paper has been accepted in Journal of Racial and Ethnic Health Disparities. (April 2024)</p>
