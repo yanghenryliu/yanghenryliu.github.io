@@ -7,7 +7,7 @@ venue: "NCCU"
 #date: 2024-08-15
 location: "Durham, North Carolina"
 ---
-Course Description: This course develops students' skills in desktop computing by utilizing various software tools to solve organizational problems. Students will gain proficiency in basic internet usage, word processing, spreadsheets, and presentation graphics applications within a structured and supervised laboratory environment. While the primary focus is on spreadsheet applications, students will also have opportunities to develop skills in other software applications.
+Course Description: This course develops students' skills in desktop computing by utilizing various software tools to solve organizational problems. Students will gain proficiency in basic internet usage, word processing, spreadsheets, and presentation graphics applications within a structured and supervised laboratory environment. Students also have opportunities to develop skills in other software applications.
 
 Student Learning Objectives/Outcomes:
 Upon successful completion of this course, students should be able to:
