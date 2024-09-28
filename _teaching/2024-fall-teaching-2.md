@@ -1,7 +1,7 @@
 ---
 title: "CIS 2400 Fundamentals of Information Systems"
 collection: teaching
-type: "[Fall 2024 Section 1 and Section 2]"
+type: "[Fall 2024]"
 permalink: /teaching/2024-Fall-teaching-2
 venue: "NCCU"
 #date: 2024-08-15
