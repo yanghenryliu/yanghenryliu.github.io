@@ -3,7 +3,7 @@ title: "CIS 1100 - Business Computer Applications"
 collection: teaching
 type: "[Fall 2024]"
 permalink: /teaching/2024-Fall-teaching-1
-venue: "NCCCU"
+venue: "NCCU"
 #date: 2024-08-15
 location: "Durham, North Carolina"
 ---
@@ -13,9 +13,7 @@ Student Learning Objectives/Outcomes:
 Upon successful completion of this course, students should be able to:
 
 - Utilize foundational business principles
+- Analyze data to address business problems
+- Apply information technology to perform business tasks
 - Solve business problems using information technology
 - Communicate solutions to business problems using information technology
-- Apply information technology to perform business tasks
-- Analyze data to address business problems
-- Use appropriate software tools to solve business problems
-- Create and integrate documents to solve business problems for various audiences
