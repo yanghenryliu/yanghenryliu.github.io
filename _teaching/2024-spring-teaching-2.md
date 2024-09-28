@@ -4,7 +4,7 @@ collection: teaching
 type: "[Spring 2020, Fall 2022, Fall 2023, Spring 2024]"
 permalink: /teaching/2023-Fall-teaching-2
 venue: "NCAT"
-#date: 2023-08-15
+#date: 2023-01
 location: "Greensboro, North Carolina"
 ---
 This course focuses on formal specification of programming languages, including definition of syntax and semantics: simple statements including precedence, infixes, prefix, and postfix notations. It highlights global properties of algorithmic languages including sequence control, data structure implementation, scooping, storage management, grouping of statements, binding time, sub-routines, and tasks.
