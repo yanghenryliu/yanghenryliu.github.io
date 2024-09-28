@@ -1,5 +1,5 @@
 ---
-title: "CIS 2400 Fundamentals of Information Systems"
+title: "CIS 2400 Fundamentals of Information Systems (Instructor)"
 collection: teaching
 type: "[Fall 2024]"
 permalink: /teaching/2024-Fall-teaching-2
