@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant Professor, Duke Power Endowed Professor"
   location         : "Durham, NC"
-  employer         : "[North Carolina Central University](https://www.nccu.edu)"
+  employer         : "https://www.nccu.edu"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Ntt81hsAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "yliu8@nccu.edu"
