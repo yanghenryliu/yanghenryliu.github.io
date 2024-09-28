@@ -2,7 +2,7 @@
 title: "COMP360 Programming Languages (Teaching Assistant)"
 collection: teaching
 type: "[Spring 2020, Fall 2022, Fall 2023, Spring 2024]"
-permalink: /teaching/2023-Fall-teaching-3
+permalink: /teaching/2023-Fall-teaching-2
 venue: "NCAT"
 #date: 2023-08-15
 location: "Greensboro, North Carolina"
