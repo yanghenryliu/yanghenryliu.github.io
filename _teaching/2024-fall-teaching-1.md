@@ -1,5 +1,5 @@
 ---
-title: "CIS 1100 - Business Computer Applications"
+title: "CIS 1100 Business Computer Applications"
 collection: teaching
 type: "[Fall 2024]"
 permalink: /teaching/2024-Fall-teaching-1
