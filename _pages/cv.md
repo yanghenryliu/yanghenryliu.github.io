@@ -87,6 +87,7 @@ Service and leadership
   * IEEE International Conference on Artificial Intelligence in Science, Engineering, and Technology (AIxSET 2024)
   * IEEE International Conference on Artificial Intelligence x Business (AIxB 2024)
   * IEEE International Conference on Artificial Intelligence x Humanities, Education, and Art (AIxHEART 2024)
+  * Association for the Advancement of Artificial Intelligence AAAI-25 Undergraduate Consortium
   
 
 * Reviewer
