@@ -98,6 +98,7 @@ Service and leadership
   * Reviewer for NeurIPS 2024
   * Ethics Reviewer for NeurIPS 2024
   * Reviewer for the Thirteenth International Conference on Learning Representations (ICLR) 2025
+  
 
 * Journal
   * Reviewer for JMIR Aging
@@ -105,5 +106,6 @@ Service and leadership
   * Reviewer for AI and Ethics
   * Reviewer for Connection Science
   * Reviewer for JMIR Medical Education
-  * Reviewer for IEEE Internet Computing 
-  * Reviewer for Journal of Medical Internet Research (JMIR) 
+  * Reviewer for IEEE Internet Computing
+  * Reviewer for Journal of Medical Internet Research (JMIR)
+  * Reviewer for ACM Transactions on Computing for Healthcare
