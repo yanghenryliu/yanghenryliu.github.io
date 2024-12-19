@@ -109,3 +109,4 @@ Service and leadership
   * Reviewer for IEEE Internet Computing
   * Reviewer for Journal of Medical Internet Research (JMIR)
   * Reviewer for ACM Transactions on Computing for Healthcare
+  * Reviewer for IEEE Transactions on Quantum Engineering
