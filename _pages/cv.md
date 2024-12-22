@@ -98,6 +98,7 @@ Service and leadership
   * Reviewer for NeurIPS 2024
   * Ethics Reviewer for NeurIPS 2024
   * Reviewer for the Thirteenth International Conference on Learning Representations (ICLR) 2025
+  * Reviewer for the Forty-Second International Conference on Machine Learning (ICML) 2025
   
 
 * Journal
@@ -108,5 +109,5 @@ Service and leadership
   * Reviewer for JMIR Medical Education
   * Reviewer for IEEE Internet Computing
   * Reviewer for Journal of Medical Internet Research (JMIR)
-  * Reviewer for ACM Transactions on Computing for Healthcare
-  * Reviewer for IEEE Transactions on Quantum Engineering
+  * Reviewer for ACM Transactions on Computing for Healthcare (HEALTH)
+  * Reviewer for IEEE Transactions on Quantum Engineering (TQE)
