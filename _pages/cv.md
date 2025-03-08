@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Tenure-track Assistant Professor in Department of Computer Information Systems, North Carolina Central University (07/2024 – )
+* Tenure-track Assistant Professor in the Department of Computer Information Systems, North Carolina Central University (07/2024 – )
   * Duke Power Endowed Professor
   * IBM-HBCU Quantum Center (IHQC) Faculty Fellow
   
@@ -38,14 +38,14 @@ Work experience
   * Guided students in producing oral presentations and posters at the conclusion of the summer program.
   * Mentored a total of one early college student, six undergraduate students, and one graduate student.
   
-* Graduate Research Assistant in Human-Centered AI (HCAI) Lab (May. 2020 - May. 2024)
+* Graduate Research Assistant in Human-Centered AI (HCAI) Lab (May 2020 - May 2024)
   * Research areas: Natural Language Processing (NLP), AI & ML, Social Media Mining, Public Health Surveillance, and Quantum Computing.
   * Extracted information from unstructured data, identifying patterns, trends, and relationships within datasets.
   * Assisted lab colleagues and junior researchers in understanding and implementing research techniques and tools.
   * Supported faculty members in preparing grant applications and research proposals by contributing to the technical aspects and project descriptions.
 
-* Research Assistant in Secure and Usable Social Media & Networks (SUSMaN) Lab (May. 2017 - May. 2020)
-  * Research area: Machine Learning, Data Mining, Internet of Things (IoT)
+* Research Assistant in Secure and Usable Social Media & Networks (SUSMaN) Lab (May 2017 - May 2020)
+  * Research Area: Machine Learning, Data Mining, Internet of Things (IoT)
 
   
 Skills
@@ -79,6 +79,9 @@ Teaching
   
 Service and leadership
 ======
+* Area Chair
+  * The Association for Computational Linguistics (ACL) Rolling Review (ARR) 2025 February Chair
+
 * Program Committee
   * IEEE International Conference on Transdisciplinary AI (TransAI 2023)
   * IEEE International Conference on Information Reuse and Integration for Data Science (IRI 2023)
@@ -89,7 +92,6 @@ Service and leadership
   * IEEE International Conference on Artificial Intelligence x Humanities, Education, and Art (AIxHEART 2024)
   * Association for the Advancement of Artificial Intelligence AAAI-25 Undergraduate Consortium
   
-
 * Reviewer
   * International Conference on Big Data Mining and Information Processing (BDMIP) 2022
   * ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022
@@ -99,7 +101,6 @@ Service and leadership
   * Ethics Reviewer for NeurIPS 2024
   * Reviewer for the Thirteenth International Conference on Learning Representations (ICLR) 2025
   * Reviewer for the Forty-Second International Conference on Machine Learning (ICML) 2025
-  
 
 * Journal
   * Reviewer for JMIR Aging
@@ -108,6 +109,6 @@ Service and leadership
   * Reviewer for Connection Science
   * Reviewer for JMIR Medical Education
   * Reviewer for IEEE Internet Computing
-  * Reviewer for Journal of Medical Internet Research (JMIR)
+  * Reviewer for the Journal of Medical Internet Research (JMIR)
   * Reviewer for ACM Transactions on Computing for Healthcare (HEALTH)
   * Reviewer for IEEE Transactions on Quantum Engineering (TQE)
