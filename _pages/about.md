@@ -30,8 +30,8 @@ News
     </style>
 </head>
 <body>
-<p> <span class="service">[Service]</span> Served as a Member of Technical Committees of the IEEE Consumer Technology Society (IEEE CTSoc) for the theme: Machine Learning, Deep Learning, and AI in Consumer Electronics (MDA)
-<p> <span class="service">[Service]</span> Served as an Area Chair for the Association for Computational Linguistics (ACL) Rolling Review (ARR) 2025
+<p> <span class="service">[Service]</span> Served as a Member of Technical Committees of the IEEE Consumer Technology Society (IEEE CTSoc) for the theme: Machine Learning, Deep Learning, and AI in Consumer Electronics (MDA) (Mar. 2025)</p>
+<p> <span class="service">[Service]</span> Served as an Area Chair for the Association for Computational Linguistics (ACL) Rolling Review (ARR) 2025 (Feb. 2025)</p>
 <p> <span class="publication">[Publication]</span> One conference paper has been accepted in EMNLP 2024, Industry Track. (Oct 2024)</p>
 <p> <span class="award">[Award]</span> Appointed as the Duke Power Endowed Professor. (August 2024)</p>
 <p> <span class="publication">[Publication]</span> Two conference paper has been accepted. (August 2024)</p>
