@@ -32,16 +32,16 @@ News
 <body>
 <p> <span class="service">[Service]</span> Served as a Member of Technical Committees of the IEEE Consumer Technology Society (IEEE CTSoc) for the theme: Machine Learning, Deep Learning, and AI in Consumer Electronics (MDA) (Mar. 2025)</p>
 <p> <span class="service">[Service]</span> Served as an Area Chair for the Association for Computational Linguistics (ACL) Rolling Review (ARR) 2025 (Feb. 2025)</p>
-<p> <span class="publication">[Publication]</span> One conference paper has been accepted in EMNLP 2024, Industry Track. (Oct 2024)</p>
-<p> <span class="award">[Award]</span> Appointed as the Duke Power Endowed Professor. (August 2024)</p>
-<p> <span class="publication">[Publication]</span> Two conference paper has been accepted. (August 2024)</p>
-<p> <span class="service">[Service]</span> Served as a member of the Program Committee for IEEE IRI 2024, IEEE AIxSET 2024, IEEE AIxB 2024, and IEEE AIxHEART 2024.</p>
-<p> <span class="service">[Service]</span> Served as a Reviewer and an Ethic Reviewer for NeurIPS 2024.</p>
-<p> <span class="publication">[Publication]</span> A conference paper has been accepted. (June 2024)</p>
-<p> <span class="award">[Award]</span> Recognized as an Outstanding Senior Graduate Research Assistant. (April 2024)</p>
-<p> <span class="publication">[Publication]</span> A journal paper has been accepted in Journal of Racial and Ethnic Health Disparities. (April 2024)</p>
-<p> <span class="award">[Award]</span> Received the IEEE Region 3 Student Professional Activities Service Award. (March 2024)</p>
-<p> <span class="publication">[Publication]</span> A journal paper has been accepted in AI and Ethics. (March 2024)</p>
+<p> <span class="publication">[Publication]</span> One conference paper has been accepted in EMNLP 2024, Industry Track (Oct. 2024)</p>
+<p> <span class="award">[Award]</span> Appointed as the Duke Power Endowed Professor (Aug. 2024)</p>
+<p> <span class="publication">[Publication]</span> Two conference paper has been accepted (Aug. 2024)</p>
+<p> <span class="service">[Service]</span> Served as a member of the Program Committee for IEEE IRI 2024, IEEE AIxSET 2024, IEEE AIxB 2024, and IEEE AIxHEART 2024</p>
+<p> <span class="service">[Service]</span> Served as a Reviewer and an Ethic Reviewer for NeurIPS 2024</p>
+<p> <span class="publication">[Publication]</span> A conference paper has been accepted (Jun. 2024)</p>
+<p> <span class="award">[Award]</span> Recognized as an Outstanding Senior Graduate Research Assistant (Apr. 2024)</p>
+<p> <span class="publication">[Publication]</span> A journal paper has been accepted in Journal of Racial and Ethnic Health Disparities (Apr. 2024)</p>
+<p> <span class="award">[Award]</span> Received the IEEE Region 3 Student Professional Activities Service Award (Mar. 2024)</p>
+<p> <span class="publication">[Publication]</span> A journal paper has been accepted in AI and Ethics (Mar. 2024)</p>
 
 </body>
 </html>
