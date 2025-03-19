@@ -79,6 +79,8 @@ Teaching
   
 Service and leadership
 ======
+Member of Technical Committees of the IEEE Consumer Technology Society (IEEE CTSoc) for the theme: Machine Learning, Deep Learning, and AI in Consumer Electronics (MDA) (Mar. 2025)
+
 * Area Chair
   * The Association for Computational Linguistics (ACL) Rolling Review (ARR) 2025 February Chair
 
