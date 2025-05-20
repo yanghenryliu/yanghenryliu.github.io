@@ -101,7 +101,6 @@ Member of [Technical Committees of the IEEE Consumer Technology Society (IEEE CT
   * Ethics Reviewer for Neural Information Processing Systems (NeurIPS) 2023
   * American Public Health Association (APHA) Public Health Film Festival Program 2024
   * Reviewer and Ethics Reviewer for NeurIPS 2024
-  * Reviewer for the Thirteenth International Conference on Learning Representations (ICLR) 2025
   * Reviewer for the Forty-Second International Conference on Machine Learning (ICML) 2025
 
 * Journal
