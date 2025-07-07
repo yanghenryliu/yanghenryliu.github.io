@@ -1,7 +1,7 @@
 ---
 title: "CIS 1100 Business Computer Applications (Instructor)"
 collection: teaching
-type: "[Fall 2024]"
+type: "[Fall 2024, Spring 2025]"
 permalink: /teaching/2024-Fall-teaching-1
 venue: "NCCU"
 #date: 2024-08-15
