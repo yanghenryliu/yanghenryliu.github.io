@@ -1,10 +1,10 @@
 ---
-title: "CIS 2400 Fundamentals of Information Systems (Instructor)"
+title: "CIS 2000 Business Programming I - Python (Instructor)"
 collection: teaching
-type: "[Fall 2024, Spring 2025]"
-permalink: /teaching/2024-Fall-teaching-2
+type: "[Fall 2025]"
+permalink: /teaching/2025-Fall-teaching-1
 venue: "NCCU"
-#date: 2024-08-15
+#date: 2025-08-15
 location: "Durham, North Carolina"
 ---
 Course Description: 
