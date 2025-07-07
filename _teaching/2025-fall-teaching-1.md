@@ -8,7 +8,6 @@ venue: "NCCU"
 location: "Durham, North Carolina"
 ---
 Course Description: 
-
 This course introduces the theory and application of programming logic, algorithm development, and concepts for business applications. Concepts introduced include data types, constants, variables, assignment
 statements, arithmetic expressions, string expressions, logical expressions, if statements, case statements, loop structures, and arrays. In addition to the above, students will get an introduction to technical interviews; the instructor hopes that many of his students will apply for tech internships, as they are an excellent way to hone programming skills. We will be learning the above using the Python 3 programming language, but these fundamental skills should transfer to other programming languages.
 
