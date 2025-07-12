@@ -102,8 +102,11 @@ Member of [Technical Committees of the IEEE Consumer Technology Society (IEEE CT
   * American Public Health Association (APHA) Public Health Film Festival Program 2024
   * Reviewer and Ethics Reviewer for NeurIPS 2024
   * Reviewer for the Forty-Second International Conference on Machine Learning (ICML) 2025
+  * Ethics Reviewer for NeurIPS 2025
+  * Ethics Reviewer NeurIPS 2025 Datasets and Benchmarks Track
 
 * Journal
+  * Reviewer for JMIR Infodemiology
   * Reviewer for JMIR Aging
   * Reviewer for IEEE Access
   * Reviewer for AI and Ethics
