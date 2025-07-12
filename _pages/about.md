@@ -26,10 +26,13 @@ News
         }
       .publication {
             color: green;
+      .funding {
+            color: maroon;
         }
     </style>
 </head>
 <body>
+<p> <span class="service">[Funding]</span> Institute for Artificial Intelligence and Emerging Research (IAIER) and Faculty Research Award Program (FRAP) Awardee</p>
 <p> <span class="service">[Service]</span> Served as an Ethic Reviewer for NeurIPS 2025 and NeurIPS 2025 Datasets and Benchmarks Track</p>
 <p> <span class="publication">[Publication]</span> One conference paper has been accepted in NLPCC 2025, (Jul. 2025)</p>
 <p> <span class="service">[Service]</span> Served as a Member of Technical Committees of the IEEE Consumer Technology Society (IEEE CTSoc) for the theme: Machine Learning, Deep Learning, and AI in Consumer Electronics (MDA) (Mar. 2025)</p>
