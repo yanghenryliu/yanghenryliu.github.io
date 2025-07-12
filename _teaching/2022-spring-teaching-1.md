@@ -1,5 +1,5 @@
 ---
-title: "COMP841 Deep Learning (Teaching Assistant)"
+title: "COMP 841 Deep Learning (Teaching Assistant)"
 collection: teaching
 type: "Spring 2022"
 permalink: /teaching/2022-spring-teaching-1
