@@ -1,5 +1,5 @@
 ---
-title: "BIOL490 Introduction of Quantum Computing (Teaching Assistant)"
+title: "BIOL 490 Introduction of Quantum Computing (Teaching Assistant)"
 collection: teaching
 type: "Spring 2023"
 permalink: /teaching/2023-spring-teaching-1
