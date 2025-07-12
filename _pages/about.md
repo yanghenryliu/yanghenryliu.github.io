@@ -26,6 +26,7 @@ News
         }
       .publication {
             color: green;
+        }
       .funding {
             color: red;
         }
