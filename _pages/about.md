@@ -27,7 +27,7 @@ News
       .publication {
             color: green;
       .funding {
-            color: maroon;
+            color: red;
         }
     </style>
 </head>
