@@ -28,7 +28,7 @@ News
             color: green;
         }
       .funding {
-            color: maroon;
+            color: red;
         }
     </style>
 </head>
@@ -40,6 +40,7 @@ News
 <p> <span class="service">[Service]</span> Served as an Area Chair for the Association for Computational Linguistics (ACL) Rolling Review (ARR) 2025 (Feb. 2025)</p>
 <p> <span class="funding">[Funding]</span> Department of Homeland Security (DHS), 2024 Center for Accelerating Operational Efficiency (CAOE) Hackathon Grants Awardee (Dec. 2024)</p>
 <p> <span class="publication">[Publication]</span> One conference paper has been accepted in EMNLP 2024, Industry Track (Oct. 2024)</p>
+<p> <span class="funding">[Funding]</span> IBM-HBCU Quantum Center Faculty Fellowship (Jul. 2025)</p>
 <p> <span class="award">[Award]</span> Appointed as the Duke Power Endowed Professor (Aug. 2024)</p>
 <p> <span class="publication">[Publication]</span> Two conference paper has been accepted (Aug. 2024)</p>
 <p> <span class="service">[Service]</span> Served as a member of the Program Committee for IEEE IRI 2024, IEEE AIxSET 2024, IEEE AIxB 2024, and IEEE AIxHEART 2024</p>
