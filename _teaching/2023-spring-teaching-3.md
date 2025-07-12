@@ -1,5 +1,5 @@
 ---
-title: "COMP360 Programming Languages (Teaching Assistant)"
+title: "COMP 360 Programming Languages (Teaching Assistant)"
 collection: teaching
 type: "[Spring 2020, Fall 2022, Fall 2023, Spring 2024]"
 permalink: /teaching/2023-Fall-teaching-2
