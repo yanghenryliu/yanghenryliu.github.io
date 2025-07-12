@@ -28,7 +28,7 @@ News
             color: green;
         }
       .funding {
-            color: red;
+            color: maroon;
         }
     </style>
 </head>
