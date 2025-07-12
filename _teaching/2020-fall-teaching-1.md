@@ -1,6 +1,6 @@
 ---
 
-title: "COMP163 Introduction to Computer Programming (Teaching Assistant)"
+title: "COMP 163 Introduction to Computer Programming (Teaching Assistant)"
 collection: teaching
 type: "Fall 2020"
 permalink: /teaching/2020-fall-teaching-1
