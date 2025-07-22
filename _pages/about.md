@@ -33,6 +33,7 @@ News
     </style>
 </head>
 <body>
+<p> <span class="award">[Award]</span> Received Outstanding Mentor Award for SRSP 2025 (Jul. 2025)</p>
 <p> <span class="funding">[Funding]</span> Institute for Artificial Intelligence and Emerging Research (IAIER) and Faculty Research Award Program (FRAP), $10,000 (Jul. 2025)</p>
 <p> <span class="service">[Service]</span> Served as an Ethic Reviewer for NeurIPS 2025 and NeurIPS 2025 Datasets and Benchmarks Track</p>
 <p> <span class="service">[Service]</span> Served as a member of the Program Committee for IEEE IRI 2025, IEEE AIxSET 2025, IEEE AIxB 2025</p>
