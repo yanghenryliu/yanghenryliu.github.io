@@ -94,6 +94,7 @@ Member of [Technical Committees of the IEEE Consumer Technology Society (IEEE CT
   * IEEE International Conference on Artificial Intelligence in Science, Engineering, and Technology (AIxSET 2024, 2025)
   * IEEE International Conference on Artificial Intelligence x Business (AIxB 2024, 2025)
   * Association for the Advancement of Artificial Intelligence AAAI-25 Undergraduate Consortium
+  * The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26)
 
   
 * Reviewer
