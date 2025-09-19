@@ -33,7 +33,8 @@ News
     </style>
 </head>
 <body>
-<p> <span class="award">[Award]</span> Dr. Liu has been selected as an HCRN Fellow at the Center for HBCU Research, Leadership, and Policy (Sep. 2025)</p>
+
+<p><span class="honor" style="font-weight:bold; color:#2a5d84;">[Honor]</span> Dr. Liu has been selected as an <strong>HCRN Fellow</strong> at the <em>Center for HBCU Research, Leadership, and Policy</em> (Sep. 2025).</p>
 <p> <span class="publication">[Publication]</span> One conference paper has been accepted in EMNLP 2025, Findings (Aug. 2025)</p>
 <p> <span class="award">[Award]</span> Received Outstanding Mentor Award for SRSP 2025 (Jul. 2025)</p>
 <p> <span class="funding">[Funding]</span> Institute for Artificial Intelligence and Emerging Research (IAIER) and Faculty Research Award Program (FRAP), $10,000 (Jul. 2025)</p>
