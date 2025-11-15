@@ -1,6 +1,6 @@
 ---
 title: "2025 Outstanding Mentor Award"
-excerpt: "Outstanding Mentor Award<br/><img src='/images/SRSP2.pdf' width='500' height='300'>"
+excerpt: "Outstanding Mentor Award<br/><img src='/images/SRSP.png' width='500' height='300'>"
 collection: portfolio
 ---
 
