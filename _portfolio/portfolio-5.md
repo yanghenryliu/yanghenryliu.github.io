@@ -4,4 +4,5 @@ excerpt: "Outstanding Senior Graduate Research Assistant<br/><img src='/images/O
 collection: portfolio
 ---
 
-Recognized as an Outstanding Senior Graduate Research Assistant for the 2023-2024 academic year! 
+Recognized as an Outstanding Senior Graduate Research Assistant for the 2023–2024 academic year!
+
