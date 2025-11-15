@@ -114,6 +114,6 @@ Member of [Technical Committees of the IEEE Consumer Technology Society (IEEE CT
   * Reviewer for [JMIR Medical Education](https://mededu.jmir.org/)
   * Reviewer for [IEEE Security & Privacy](https://www.computer.org/csdl/magazine/sp)
   * Reviewer for [IEEE Internet Computing](https://www.computer.org/csdl/magazine/ic)
-  * Reviewer for the [Journal of Medical Internet Research (JMIR)](https://www.jmir.org/)
+  * Reviewer for [Journal of Medical Internet Research (JMIR)](https://www.jmir.org/)
   * Reviewer for [ACM Transactions on Computing for Healthcare (HEALTH)](https://dl.acm.org/journal/health)
   * Reviewer for [IEEE Transactions on Quantum Engineering (TQE)](https://tqe.ieee.org/)
