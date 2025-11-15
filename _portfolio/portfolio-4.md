@@ -1,6 +1,6 @@
 ---
 title: "2024 IEEE Region 3 Student Professional Activities Service Award"
-excerpt: "IEEE Region 3 Student Professional Activities Service Award <br/><img src='/images/IEEE_R3.pdf' width='500' height='300'>"
+excerpt: "IEEE Region 3 Student Professional Activities Service Award <br/><img src='/images/IEEE_R3.png' width='500' height='300'>"
 collection: portfolio
 ---
 
