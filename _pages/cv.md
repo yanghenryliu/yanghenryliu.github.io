@@ -106,11 +106,11 @@ Member of [Technical Committees of the IEEE Consumer Technology Society (IEEE CT
   * Ethics Reviewer NeurIPS 2025 Datasets and Benchmarks Track
 
 * Journal
-  * Reviewer for JMIR Infodemiology
-  * Reviewer for JMIR Aging
-  * Reviewer for IEEE Access
-  * Reviewer for AI and Ethics
-  * Reviewer for Connection Science
+  * Reviewer for [JMIR Infodemiology](https://infodemiology.jmir.org/)
+  * Reviewer for [JMIR Aging](https://aging.jmir.org/)
+  * Reviewer for [IEEE Access](https://ieeeaccess.ieee.org/)
+  * Reviewer for [AI and Ethics](https://link.springer.com/journal/43681)
+  * Reviewer for [Connection Science](https://www.tandfonline.com/journals/ccos20)
   * Reviewer for JMIR Medical Education
   * Reviewer for IEEE Security & Privacy
   * Reviewer for IEEE Internet Computing
