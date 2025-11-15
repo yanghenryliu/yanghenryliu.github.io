@@ -95,8 +95,6 @@ Member of [Technical Committees of the IEEE Consumer Technology Society (IEEE CT
   * IEEE International Conference on Artificial Intelligence x Business (AIxB 2024, 2025)
   * The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25) Undergraduate Consortium
 
-
-  
 * Reviewer
   * International Conference on Big Data Mining and Information Processing (BDMIP) 2022
   * ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022
@@ -114,6 +112,7 @@ Member of [Technical Committees of the IEEE Consumer Technology Society (IEEE CT
   * Reviewer for AI and Ethics
   * Reviewer for Connection Science
   * Reviewer for JMIR Medical Education
+  * Reviewer for IEEE Security & Privacy
   * Reviewer for IEEE Internet Computing
   * Reviewer for the Journal of Medical Internet Research (JMIR)
   * Reviewer for ACM Transactions on Computing for Healthcare (HEALTH)
