@@ -5,6 +5,7 @@ collection: portfolio
 
 ---
 Association of College and University Educators (ACUE)
+[Creating a Productive Learning Environment](https://badges.parchment.com/public/assertions/v6Y2mUrwQxy5IpDVqi9GRA)
 
 Description:
 Creating a Productive Learning Environment is one of four courses available in the ACUE's Course in Effective Teaching Practices. Modules in this course present practices for leading a productive first day, promoting a civil learning environment, ensuring access to learning, helping students persist in their studies, providing useful feedback, and checking for student understanding.
@@ -23,5 +24,5 @@ Creating a Productive Learning Environment is one of four courses available in t
 
 <img src="/images/Providing Useful Feedback.png" width="500" height="800">
 
-[Creating a Productive Learning Environment](https://badges.parchment.com/public/assertions/v6Y2mUrwQxy5IpDVqi9GRA)
+
 
