@@ -8,3 +8,15 @@ collection: portfolio
 [Matthews, Liu Selected for National HBCU Fellowship](https://www.nccu.edu/news/matthews-liu-selected-national-hbcu-fellowship) 
 
 Dr. Liu has been selected as an HBCU Center Research Network (HCRN) Fellow by the Center for HBCU Research, Leadership, and Policy at Howard University.
+
+More Information: 
+
+Two members of the North Carolina Central University (NCCU) community have been chosen for a national fellowship that recognizes research contributions that support the growth, resilience and continued advancement of historically Black colleges and universities (HBCUs).  
+
+Dawn Matthews, Ph.D., associate dean of University College, and Yang Liu, Ph.D., assistant professor in the department of computer information systems, have been named HBCU Center Fellows by The Center for HBCU Research, Leadership and Policy at Howard University. The national program spotlights scholars and practitioners whose work advances opportunity, innovation and community impact. 
+
+Through the fellowship, Matthews and Liu will each lead a research project examining the influence and value of historically Black colleges and universities. Their findings will be shared with a national audience, highlighting how HBCUs shape education, leadership and community progress.  
+
+Fellows are appointed for one academic year and develop a project plan that outlines their area of focus and documents their experience through a capstone project. As a practitioner fellow, Matthews will explore strategies to strengthen staff development and student success. Liu, serving as a research fellow, will use data-driven approaches to enhance student outcomes across HBCUs. 
+
+The program builds a network of higher education leaders whose research and innovation continue to expand the national conversation about the vital role of HBCUs. 
