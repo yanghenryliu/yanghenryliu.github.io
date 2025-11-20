@@ -1,6 +1,6 @@
 ---
-title: "Qiskit Global Summer School 2022 - Quantum Excellence"
-excerpt: "Qiskit"
+title: "2022 Qiskit Global Summer School - Quantum Excellence"
+excerpt: "IBM Quantum Computing"
 collection: portfolio
 ---
 
