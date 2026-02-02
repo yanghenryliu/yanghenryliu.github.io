@@ -1,7 +1,7 @@
 ---
 title: "CIS 2050 AI for Business and Society (Instructor)"
 collection: teaching
-type: "[Fall 2025]"
+type: "[Fall 2025, Spring 2026]"
 permalink: /teaching/2025-Fall-teaching-2
 venue: "NCCU"
 #date: 2025-08-15
