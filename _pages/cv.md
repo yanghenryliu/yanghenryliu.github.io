@@ -105,6 +105,7 @@ Member of [Technical Committees of the IEEE Consumer Technology Society (IEEE CT
   * Reviewer for the Forty-Second International Conference on Machine Learning (ICML) 2025
   * Ethics Reviewer for NeurIPS 2025
   * Ethics Reviewer NeurIPS 2025 Datasets and Benchmarks Track
+  * Mentor for the ACL 2026 Student Research Workshop (SRW)
 
 * Journal
   * Reviewer for [JMIR Infodemiology](https://infodemiology.jmir.org/)
