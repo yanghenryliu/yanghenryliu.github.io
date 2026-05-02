@@ -89,7 +89,7 @@ Member of [Technical Committees of the IEEE Consumer Technology Society (IEEE CT
   * IEEE International Conference on Transdisciplinary AI (TransAI 2023)
   * International Conference on Asian Language Processing (IALP 2024)
   * IEEE International Conference on Artificial Intelligence x Humanities, Education, and Art (AIxHEART 2024)
-  * IEEE International Conference on Information Reuse and Integration for Data Science (IRI 2023, 2024, 2025)
+  * IEEE International Conference on Artificial Intelligence x Science, Engineering, and Technology (AIxSET 2024 - 2026)
   * IEEE International Conference on Artificial Intelligence x Business (AIxB 2024, 2025)
   * The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25) Undergraduate Consortium
   * International Conference on Consumer Electronics - Taiwan (ICCE-Taiwan 2025, 2026)
