@@ -37,6 +37,7 @@ News
     </style>
 </head>
 <body>
+<p> <span class="publication">[Publication]</span> A journal article has been accepted in Journal of Medical Internet Research (JMIR) Cancer (May 2026)</p>
 <p> <span class="publication">[Publication]</span> One journal article has been published in the Journal of Database Management (JDM) (Jan. 2026)</p>
 <p><span class="honor">[Honor]</span> Dr. Liu has been selected for the National HBCU Fellowship at the <em>Center for HBCU Research, Leadership, and Policy</em> (Sep. 2025).</p>
 <p> <span class="publication">[Publication]</span> One conference paper has been accepted in EMNLP 2025, Findings (Aug. 2025)</p>
@@ -51,14 +52,7 @@ News
 <p> <span class="publication">[Publication]</span> One conference paper has been accepted in EMNLP 2024, Industry Track (Oct. 2024)</p>
 <p> <span class="funding">[Funding]</span> IBM-HBCU Quantum Center Faculty Fellowship, $100,000 (Jul. 2025)</p>
 <p><span class="honor">[Honor]</span> Dr. Liu appointed as the <strong>Duke Power Endowed Professor</strong> (Aug. 2024).</p>
-<p> <span class="publication">[Publication]</span> Two conference paper has been accepted (Aug. 2024)</p>
-<p> <span class="service">[Service]</span> Served as a member of the Program Committee for IEEE IRI 2024, IEEE AIxSET 2024, IEEE AIxB 2024, and IEEE AIxHEART 2024</p>
-<p> <span class="service">[Service]</span> Served as a Reviewer and an Ethic Reviewer for NeurIPS 2024</p>
-<p> <span class="publication">[Publication]</span> A conference paper has been accepted (Jun. 2024)</p>
-<p> <span class="award">[Award]</span> Recognized as an Outstanding Senior Graduate Research Assistant (Apr. 2024)</p>
-<p> <span class="publication">[Publication]</span> A journal article has been accepted in Journal of Racial and Ethnic Health Disparities (Apr. 2024)</p>
-<p> <span class="award">[Award]</span> Received the IEEE Region 3 Student Professional Activities Service Award (Mar. 2024)</p>
-<p> <span class="publication">[Publication]</span> A journal article has been accepted in AI and Ethics (Mar. 2024)</p>
+
 
 </body>
 </html>
