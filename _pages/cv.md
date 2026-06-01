@@ -90,7 +90,7 @@ Member of [Technical Committees of the IEEE Consumer Technology Society (IEEE CT
   * International Conference on Asian Language Processing (IALP 2024)
   * IEEE International Conference on Artificial Intelligence x Humanities, Education, and Art (AIxHEART 2024)
   * IEEE International Conference on Artificial Intelligence x Science, Engineering, and Technology (AIxSET 2024 - 2026)
-  * IEEE International Conference on Artificial Intelligence x Business (AIxB 2024, 2025)
+  * IEEE International Conference on Artificial Intelligence x Business (AIxB 2024 - 2026)
   * The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25) Undergraduate Consortium
   * International Conference on Consumer Electronics - Taiwan (ICCE-Taiwan 2025, 2026)
   * IEEE International Conference on Information Reuse and Integration for Data Science (IRI 2023 - 2026)
@@ -106,6 +106,7 @@ Member of [Technical Committees of the IEEE Consumer Technology Society (IEEE CT
   * Ethics Reviewer for NeurIPS 2025
   * Ethics Reviewer NeurIPS 2025 Datasets and Benchmarks Track
   * Mentor for the ACL 2026 Student Research Workshop (SRW)
+  * Reviewer for Empirical Methods in Natural Language Processing (EMNLP) 2026 Industry Track
 
 * Journal
   * Reviewer for [JMIR Infodemiology](https://infodemiology.jmir.org/)
