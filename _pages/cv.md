@@ -49,16 +49,16 @@ Work experience
   * Research Area: Machine Learning, Data Mining, Internet of Things (IoT)
 
   
-Skills
-======
-* Computer Languages 
-  * Python, Qiskit, SQL, and JAVA
-* ML & DL Frameworks
-  * Scikit-Learn, TensorFlow, Keras, PyTourch
-* Natural Language Processing
-  * Tokenization, Stop Words Removal, Lemmatization & Stemming, TF-IDF, Word Embedding, Topic Modeling, Sentiment Analysis, Text Classification, Named Entity Recognition, LLM
-* Others
-   * Github, LaTex, IBM Quantum Lab, qBraid, Google Colab, GPU Workstation, Tableau
+%Skills
+%======
+%* Computer Languages 
+%  * Python, Qiskit, SQL, and JAVA
+%* ML & DL Frameworks
+%  * Scikit-Learn, TensorFlow, Keras, PyTourch
+%* Natural Language Processing
+%  * Tokenization, Stop Words Removal, Lemmatization & Stemming, TF-IDF, Word Embedding, Topic Modeling, Sentiment Analysis, Text Classification, Named Entity Recognition, LLM
+%* Others
+%   * Github, LaTex, IBM Quantum Lab, qBraid, Google Colab, GPU Workstation, Tableau
      
 Publications
 ======
