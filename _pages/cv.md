@@ -57,7 +57,7 @@ Research Interests
 * Generative AI–Enabled Platforms
 * Autonomous Research Agents
 
-Dr. Liu’s research lies at the intersection of artificial intelligence, machine learning, natural language processing, and information systems. He develops human-centered, trustworthy, and reproducible computational methods for analyzing and governing digital information environments, with applications in public health surveillance, misinformation, generative AI platforms, and autonomous research systems.
+Dr. Liu’s research lies at the intersection of artificial intelligence (AI), machine learning (ML), natural language processing (NLP), and information systems. He develops human-centered, trustworthy, and reproducible computational methods for analyzing and governing digital information environments, with applications in public health surveillance, misinformation, generative AI platforms, and autonomous research systems.
      
 Publications
 ======
