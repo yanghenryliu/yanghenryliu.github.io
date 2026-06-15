@@ -49,16 +49,15 @@ Work experience
   * Research Area: Machine Learning, Data Mining, Internet of Things (IoT)
 
   
-%Skills
-%======
-%* Computer Languages 
-%  * Python, Qiskit, SQL, and JAVA
-%* ML & DL Frameworks
-%  * Scikit-Learn, TensorFlow, Keras, PyTourch
-%* Natural Language Processing
-%  * Tokenization, Stop Words Removal, Lemmatization & Stemming, TF-IDF, Word Embedding, Topic Modeling, Sentiment Analysis, Text Classification, Named Entity Recognition, LLM
-%* Others
-%   * Github, LaTex, IBM Quantum Lab, qBraid, Google Colab, GPU Workstation, Tableau
+Research Interests 
+======
+* Social Media Mining for Public Health Surveillance
+* Misinformation and Digital Information Governance
+* Human-Centered and Trustworthy AI
+* Generative AI–Enabled Platforms
+* Autonomous Research Agents
+
+Dr. Liu’s research lies at the intersection of artificial intelligence, machine learning, natural language processing, and information systems. He develops human-centered, trustworthy, and reproducible computational methods for analyzing and governing digital information environments, with applications in public health surveillance, misinformation, generative AI platforms, and autonomous research systems.
      
 Publications
 ======
