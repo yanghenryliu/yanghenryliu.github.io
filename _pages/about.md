@@ -37,8 +37,8 @@ News
     </style>
 </head>
 <body>
-<p> <span class="publication"></span> A journal article has been accepted in Journal of Medical Internet Research (JMIR) Cancer (May 2026)</p>
-<p> <span class="publication"></span> One journal article has been published in the Journal of Database Management (JDM) (Jan. 2026)</p>
+<p> <span class="publication">*</span> A journal article has been accepted in Journal of Medical Internet Research (JMIR) Cancer (May 2026)</p>
+<p> <span class="publication">*</span> One journal article has been published in the Journal of Database Management (JDM) (Jan. 2026)</p>
 <p><span class="honor">[Honor]</span> National HBCU Fellowship at the <em>Center for HBCU Research, Leadership, and Policy</em> (Sep. 2025).</p>
 <p> <span class="funding">[Funding]</span> HCRN Fellowship, PI, Awarded ($5,000), 2025-2026</p>
 <p> <span class="publication">[Publication]</span> One conference paper has been accepted in EMNLP 2025, Findings (Aug. 2025)</p>
