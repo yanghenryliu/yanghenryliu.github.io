@@ -52,7 +52,7 @@ News
 <p> <span class="funding"></span> Department of Homeland Security (DHS), 2024 Center for Accelerating Operational Efficiency (CAOE) Hackathon Grants, Awarded ($17,500), 2024-2025</p>
 <p> <span class="publication"></span> One conference paper has been accepted in EMNLP 2024, Industry Track (Oct. 2024)</p>
 <p> <span class="funding"></span> IBM-HBCU Quantum Center Faculty Fellowship, PI, Awarded ($100,000), 2024-2026</p>
-<p><span class="honor"></span> <strong>Duke Power Endowed Professor</strong> (Aug. 2024).</p>
+<p><span class="honor"></span> Dr. Yang Liu has been appointed as the  <strong>Duke Power Endowed Professor</strong> (Aug. 2024).</p>
 
 
 </body>
