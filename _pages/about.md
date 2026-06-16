@@ -11,7 +11,7 @@ YANG LIU received a B.E. in Electrical Engineering and Automation from Henan Pol
 
 His research lies at the intersection of artificial intelligence (AI), natural language processing (NLP), information systems (IS), and socially consequential applications. He develops human-centered, trustworthy, and reproducible AI methods for analyzing and governing digital information environments, with applications in social media–based public health surveillance, misinformation and digital information governance, generative AI platforms, and autonomous research systems. His work draws on AI, ML, NLP, and computational social science to study online information-seeking behavior, emerging public health concerns, and platform-mediated information flows.
 
-As an [IBM-HBCU Quantum Center](https://www.hbcuquantumcenter.org/) Faculty Fellow, he is exploring the potential applications of quantum computing and actively contributes to workforce development in Quantum Information Science and Engineering (QISE). He has served on the program committees of multiple conferences and as a reviewer for more than 20 journals and conferences in these areas.
+As an [IBM-HBCU Quantum Center](https://www.hbcuquantumcenter.org/) Faculty Fellow, he is exploring the potential applications of quantum computing and actively contributes to workforce development in Quantum Information Science and Engineering (QISE). He has served on the program committees of multiple conferences and as a reviewer for more than 25 journals and conferences in these areas.
 
 News
 ======
