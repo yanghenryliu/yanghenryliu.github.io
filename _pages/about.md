@@ -40,10 +40,10 @@ News
 <p> <span class="publication">[Publication]</span> A journal article has been accepted in Journal of Medical Internet Research (JMIR) Cancer (May 2026)</p>
 <p> <span class="publication">[Publication]</span> One journal article has been published in the Journal of Database Management (JDM) (Jan. 2026)</p>
 <p><span class="honor">[Honor]</span> National HBCU Fellowship at the <em>Center for HBCU Research, Leadership, and Policy</em> (Sep. 2025).</p>
-<p> <span class="award">[Award]</span> HCRN Fellowship, PI, Awarded ($5,000), 2025-2026</p>
+<p> <span class="funding">[Funding]</span> HCRN Fellowship, PI, Awarded ($5,000), 2025-2026</p>
 <p> <span class="publication">[Publication]</span> One conference paper has been accepted in EMNLP 2025, Findings (Aug. 2025)</p>
 <p> <span class="award">[Award]</span> Outstanding Mentor Award for SRSP 2025 (Jul. 2025)</p>
-<p> <span class="award">[Award]</span> Institute for Artificial Intelligence and Emerging Research (IAIER) and Faculty Research Award Program (FRAP), PI, Awarded ($10,000), 2025-2026</p>
+<p> <span class="funding">[Funding]</span> Institute for Artificial Intelligence and Emerging Research (IAIER) and Faculty Research Award Program (FRAP), PI, Awarded ($10,000), 2025-2026</p>
 <p> <span class="service">[Service]</span> Reviewer for NeurIPS 2025 and NeurIPS 2025 Datasets and Benchmarks Track</p>
 <p> <span class="service">[Service]</span> Program Committee Member for IEEE IRI 2025, IEEE AIxSET 2025, IEEE AIxB 2025</p>
 <p> <span class="service">[Service]</span> Member of Technical Committees of the IEEE Consumer Technology Society (IEEE CTSoc) for the theme: Machine Learning, Deep Learning, and AI in Consumer Electronics (MDA) (Mar. 2025)</p>
