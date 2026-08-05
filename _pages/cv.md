@@ -121,3 +121,4 @@ Honor, Service, and Leadership
   * Reviewer for [Journal of Medical Internet Research (JMIR)](https://www.jmir.org/)
   * Reviewer for [ACM Transactions on Computing for Healthcare (HEALTH)](https://dl.acm.org/journal/health)
   * Reviewer for [IEEE Transactions on Quantum Engineering (TQE)](https://tqe.ieee.org/)
+  * Reviewer for [The Journal of Web Librarianship](https://www.tandfonline.com/journals/wjwl20)
