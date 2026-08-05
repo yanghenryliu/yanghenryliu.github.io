@@ -40,6 +40,7 @@ News
 <p> <span class="publication">[Publication]</span> One journal article has been published in JMIR Cancer (Jun. 2026)</p>
 <p> <span class="publication">[Publication]</span> One journal article has been published in the Journal of Database Management (JDM) (Jan. 2026)</p>
 <p> <span class="service">[Service]</span> Program Committee Member for IEEE IRI 2026, Canadian AI 2026, IEEE AIxSET 2026, IEEE AIxB 2026</p>
+<p> <span class="award">[Award]</span> HBCU Thrive Fellowship, PI, Awarded ($2,000), 2026</p>
 <p><span class="honor">[Honor]</span> National HBCU Fellowship at the <em>Center for HBCU Research, Leadership, and Policy</em> (Sep. 2025).</p>
 <p> <span class="award">[Award]</span> HCRN Fellowship, PI, Awarded ($5,000), 2025-2026</p>
 <p> <span class="publication">[Publication]</span> One conference paper has been accepted in EMNLP 2025, Findings (Aug. 2025)</p>
