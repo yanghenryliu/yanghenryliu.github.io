@@ -105,9 +105,10 @@ Honor, Service, and Leadership
   * Reviewer and Ethics Reviewer for NeurIPS 2024
   * Reviewer for the Forty-Second International Conference on Machine Learning (ICML) 2025
   * Ethics Reviewer for NeurIPS 2025
-  * Ethics Reviewer NeurIPS 2025 Datasets and Benchmarks Track
+  * Ethics Reviewer for NeurIPS 2025 Datasets and Benchmarks Track
   * Mentor for the ACL 2026 Student Research Workshop (SRW)
   * Reviewer for Empirical Methods in Natural Language Processing (EMNLP) 2026 Industry Track
+  * Reviewer for Information Systems & Computing Academic Professionals Conference (ISCAP 2026)
 
 * Journal
   * Reviewer for [JMIR Infodemiology](https://infodemiology.jmir.org/)
