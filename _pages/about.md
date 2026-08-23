@@ -37,9 +37,10 @@ News
     </style>
 </head>
 <body>
+<p> <span class="publication">[Publication]</span> One journal article has been published in Data & Knowledge Engineering (DKE) <strong>ABDC Rating: A</strong> (Jan. 2026)</p>
 <p> <span class="publication">[Publication]</span> One conference paper has been accepted in ISCAP 2026 (Aug. 2026)</p>
 <p> <span class="publication">[Publication]</span> One journal article has been published in JMIR Cancer (Jun. 2026)</p>
-<p> <span class="publication">[Publication]</span> One journal article has been published in the Journal of Database Management (JDM) (Jan. 2026)</p>
+<p> <span class="publication">[Publication]</span> One journal article has been published in the Journal of Database Management (JDM) <strong>ABDC Rating: A</strong> (Jan. 2026)</p>
 <p> <span class="service">[Service]</span> Program Committee Member for IEEE IRI 2026, Canadian AI 2026, IEEE AIxSET 2026, IEEE AIxB 2026</p>
 <p> <span class="award">[Award]</span> HBCU Thrive Fellowship, 2025-2026</p>
 <p><span class="honor">[Honor]</span> National HBCU Fellowship at the <em>Center for HBCU Research, Leadership, and Policy</em> (Sep. 2025).</p>
