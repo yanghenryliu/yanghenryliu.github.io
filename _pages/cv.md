@@ -80,7 +80,7 @@ Honor, Service, and Leadership
 ======
 * National HBCU Fellowship by the Center for HBCU Research, Leadership, and Policy at Howard University (Sep. 2025 - Present)
 
-* Member of [Technical Committees of the IEEE Consumer Technology Society (IEEE CTSoc) for the theme: Machine Learning, Deep Learning, and AI in Consumer Electronics (MDA)](https://ctsoc.ieee.org/technical/technical-committees/mda-tc.html?view=article&id=310:mda-tc-members&catid=21) (Mar. 2025 - Present)
+* Member of [Technical Committees of the IEEE Consumer Technology Society (IEEE CTSoc) for the theme: Machine Learning, Deep Learning, and AI in Consumer Electronics (MDA)](https://ctsoc.ieee.org/technical/technical-committees/mda-tc?view=article&id=310:mda-tc-members&catid=21) (Mar. 2025 - Present)
 
 * Area Chair
   * The Association for Computational Linguistics (ACL) Rolling Review (ARR) 2025 February Chair
