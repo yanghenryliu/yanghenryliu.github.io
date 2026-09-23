@@ -37,6 +37,7 @@ News
     </style>
 </head>
 <body>
+<p> <span class="publication">[Publication]</span> One journal article has been accepted in JMIR Infodemiology (Sep. 2026)</p>
 <p> <span class="publication">[Publication]</span> One journal article has been published in Data & Knowledge Engineering (DKE) <strong>ABDC Rating: A</strong> (Aug. 2026)</p>
 <p> <span class="publication">[Publication]</span> One conference paper has been accepted in ISCAP 2026 (Aug. 2026)</p>
 <p> <span class="publication">[Publication]</span> One journal article has been published in JMIR Cancer (Jun. 2026)</p>
