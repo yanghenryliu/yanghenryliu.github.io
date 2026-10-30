@@ -19,8 +19,8 @@ Education
 Work experience
 ======
 * Tenure-track Assistant Professor in the Department of Computer Information Systems, North Carolina Central University (07/2024 – )
-  * Duke Power Endowed Professor
-  * IBM-HBCU Quantum Center (IHQC) Faculty Fellow, Cohort III
+  * Duke Power Endowed Professor (08/2024 - 06/2026 )
+  * IBM-HBCU Quantum Center (IHQC) Faculty Fellow, Cohort III (2025 - 2026)
   * Associate Director of the Laboratory for Artificial Intelligence and Emerging Research (LAIER)
   
 * Lecturer in Department of Computer Science, NC A&T State University (01/2023 – 05/2023)
