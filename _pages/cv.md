@@ -14,12 +14,12 @@ Education
 * B.E. in Electrical Engineering and Automation, Henan Polytechnic University, 2018
 * B.S. in Electrical Engineering, North Carolina A&T State University, 2018
 * M.S. in Computer Science, North Carolina A&T State University, 2020
-* Ph.D in Computer Science, North Carolina A&T State University, 2024
+* Ph.D. in Computer Science, North Carolina A&T State University, 2024
 
 Work experience
 ======
 * Tenure-track Assistant Professor in the Department of Computer Information Systems, North Carolina Central University (07/2024 – )
-  * Duke Power Endowed Professor (08/2024 - 06/2026 )
+  * Duke Power Endowed Professor (08/2024 - 06/2026)
   * IBM-HBCU Quantum Center (IHQC) Faculty Fellow, Cohort III (2025 - 2026)
   * Associate Director of the Laboratory for Artificial Intelligence and Emerging Research (LAIER)
   
