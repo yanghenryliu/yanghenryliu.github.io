@@ -108,6 +108,7 @@ Honor, Service, and Leadership
   * Mentor for the ACL 2026 Student Research Workshop (SRW)
   * Reviewer for Empirical Methods in Natural Language Processing (EMNLP) 2026 Industry Track
   * Reviewer for Information Systems & Computing Academic Professionals Conference (ISCAP 2026)
+  * Reviewer for The 2027 ACM Web Conference
 
 * Journal
   * Reviewer for [JMIR Infodemiology](https://infodemiology.jmir.org/)
